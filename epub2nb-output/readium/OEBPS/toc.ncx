@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Konzul v afrikánech</text>
+  </docTitle>
+  <docAuthor>
+    <text>Pavel Šrut</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>Čtenář na koni</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>Pohádka o tom, jak pan Kolář učil jednoho mládence kouřit</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>Ó ta divoká léta šedesátá!</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>Tři červená jablíčka aneb Chvála krásné vyhlídky</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_009.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>Robinson František</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_010.xhtml#_idParaDest-5"/>
+      <navPoint id="navpoint6" playOrder="6">
+        <navLabel>
+          <text>I</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_010.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navpoint7" playOrder="7">
+        <navLabel>
+          <text>II</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_010.xhtml#_idParaDest-7"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>Poslední odpověď na poslední dopis Jana Skácela</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_011.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>Hodinky a kámen</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_012.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>Volná noha u stolu</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_013.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>Rychlé špunty a pěkná, pomalá práce podzimu</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_014.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>O česneku, poezii a chytání zajíců</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_015.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>35 000 básníků a deus ex machina Allen Ginsberg</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_016.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>Pravý živý indián</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_017.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>Víno je příběh</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_018.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>Nechci žít nonstop</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_019.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>Opařený, ale šťastný</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_020.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>Rum do čaje – čum do ráje</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_021.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>Where are you from?</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_022.xhtml#_idParaDest-19"/>
+      <navPoint id="navpoint20" playOrder="20">
+        <navLabel>
+          <text>Scénka první</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_022.xhtml#_idParaDest-20"/>
+      </navPoint>
+      <navPoint id="navpoint21" playOrder="21">
+        <navLabel>
+          <text>Scénka druhá</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_022.xhtml#_idParaDest-21"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>Where is your local?</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_023.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>Krásná bláhová Dajána</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_024.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>Zazipovaná Kimberley</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_025.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>Óda na zahlédnutý kotník</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_026.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navpoint26" playOrder="26">
+      <navLabel>
+        <text>Stylové masáže</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_027.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navpoint27" playOrder="27">
+      <navLabel>
+        <text>Zlomený klíč pod rohožkou</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_028.xhtml#_idParaDest-27"/>
+      <navPoint id="navpoint28" playOrder="28">
+        <navLabel>
+          <text>Epilog</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_028.xhtml#_idParaDest-28"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint29" playOrder="29">
+      <navLabel>
+        <text>Výchova mladých Číňanek v Čechách</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_029.xhtml#_idParaDest-29"/>
+      <navPoint id="navpoint30" playOrder="30">
+        <navLabel>
+          <text>První díl</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_029.xhtml#_idParaDest-30"/>
+      </navPoint>
+      <navPoint id="navpoint31" playOrder="31">
+        <navLabel>
+          <text>Druhý díl</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_029.xhtml#_idParaDest-31"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint32" playOrder="32">
+      <navLabel>
+        <text>Sen hořký jako fernet</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_030.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navpoint33" playOrder="33">
+      <navLabel>
+        <text>Ošklivost bez závoje</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_032.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint id="navpoint34" playOrder="34">
+      <navLabel>
+        <text>Postavit dům, zasadit strom…</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_033.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navpoint35" playOrder="35">
+      <navLabel>
+        <text>Hra na hraně</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_034.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navpoint36" playOrder="36">
+      <navLabel>
+        <text>Magor vnoučatům</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_035.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint id="navpoint37" playOrder="37">
+      <navLabel>
+        <text>O zaručené Peťákově cestě do nebe</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_036.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint id="navpoint38" playOrder="38">
+      <navLabel>
+        <text>Jak odejít… a přitom zůstat doma</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_037.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint id="navpoint39" playOrder="39">
+      <navLabel>
+        <text>Čekání na anděla</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_039.xhtml#_idParaDest-39"/>
+    </navPoint>
+    <navPoint id="navpoint40" playOrder="40">
+      <navLabel>
+        <text>Štědrý večer a ucho generála Čepičky</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_040.xhtml#_idParaDest-40"/>
+    </navPoint>
+    <navPoint id="navpoint41" playOrder="41">
+      <navLabel>
+        <text>Můj otec byl agent</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_041.xhtml#_idParaDest-41"/>
+    </navPoint>
+    <navPoint id="navpoint42" playOrder="42">
+      <navLabel>
+        <text>Jak zrušit únor</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_042.xhtml#_idParaDest-42"/>
+    </navPoint>
+    <navPoint id="navpoint43" playOrder="43">
+      <navLabel>
+        <text>Fandové</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_043.xhtml#_idParaDest-43"/>
+    </navPoint>
+    <navPoint id="navpoint44" playOrder="44">
+      <navLabel>
+        <text>Maďary</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_044.xhtml#_idParaDest-44"/>
+      <navPoint id="navpoint45" playOrder="45">
+        <navLabel>
+          <text>Úvod</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_044.xhtml#_idParaDest-45"/>
+      </navPoint>
+      <navPoint id="navpoint46" playOrder="46">
+        <navLabel>
+          <text>Stať</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_044.xhtml#_idParaDest-46"/>
+      </navPoint>
+      <navPoint id="navpoint47" playOrder="47">
+        <navLabel>
+          <text>Závěr</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_044.xhtml#_idParaDest-47"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint48" playOrder="48">
+      <navLabel>
+        <text>Orkneje</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_045.xhtml#_idParaDest-48"/>
+    </navPoint>
+    <navPoint id="navpoint49" playOrder="49">
+      <navLabel>
+        <text>Milý lidový deníčku,</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_046.xhtml#_idParaDest-49"/>
+      <navPoint id="navpoint50" playOrder="50">
+        <navLabel>
+          <text>Dovětek po létech</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_046.xhtml#_idParaDest-50"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint51" playOrder="51">
+      <navLabel>
+        <text>Malá recenze na čisté víno</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_048.xhtml#_idParaDest-51"/>
+    </navPoint>
+    <navPoint id="navpoint52" playOrder="52">
+      <navLabel>
+        <text>Člověče, nezlob se</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_049.xhtml#_idParaDest-52"/>
+    </navPoint>
+    <navPoint id="navpoint53" playOrder="53">
+      <navLabel>
+        <text>Člověče, nezlob mě</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_050.xhtml#_idParaDest-53"/>
+    </navPoint>
+    <navPoint id="navpoint54" playOrder="54">
+      <navLabel>
+        <text>Čaj s náprstkem slivovice</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_051.xhtml#_idParaDest-54"/>
+    </navPoint>
+    <navPoint id="navpoint55" playOrder="55">
+      <navLabel>
+        <text>Ó ty vire virility!</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_052.xhtml#_idParaDest-55"/>
+    </navPoint>
+    <navPoint id="navpoint56" playOrder="56">
+      <navLabel>
+        <text>Vůně mandlu a vůně mandlí</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_053.xhtml#_idParaDest-56"/>
+    </navPoint>
+    <navPoint id="navpoint57" playOrder="57">
+      <navLabel>
+        <text>Dějiny ve vosku</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_054.xhtml#_idParaDest-57"/>
+    </navPoint>
+    <navPoint id="navpoint58" playOrder="58">
+      <navLabel>
+        <text>O příslovích</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_055.xhtml#_idParaDest-58"/>
+    </navPoint>
+    <navPoint id="navpoint59" playOrder="59">
+      <navLabel>
+        <text>Píšete bratrovi?</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_056.xhtml#_idParaDest-59"/>
+    </navPoint>
+    <navPoint id="navpoint60" playOrder="60">
+      <navLabel>
+        <text>Čeština</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_057.xhtml#_idParaDest-60"/>
+      <navPoint id="navpoint61" playOrder="61">
+        <navLabel>
+          <text>Úvod</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_057.xhtml#_idParaDest-61"/>
+      </navPoint>
+      <navPoint id="navpoint62" playOrder="62">
+        <navLabel>
+          <text>Stať</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_057.xhtml#_idParaDest-62"/>
+      </navPoint>
+      <navPoint id="navpoint63" playOrder="63">
+        <navLabel>
+          <text>Závěr</text>
+        </navLabel>
+        <content src="Text/konzul_v_afrikanech_057.xhtml#_idParaDest-63"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navpoint64" playOrder="64">
+      <navLabel>
+        <text>Duše</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_058.xhtml#_idParaDest-64"/>
+    </navPoint>
+    <navPoint id="navpoint65" playOrder="65">
+      <navLabel>
+        <text>Feminismus po eskymácku</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_059.xhtml#_idParaDest-65"/>
+    </navPoint>
+    <navPoint id="navpoint66" playOrder="66">
+      <navLabel>
+        <text>Tuglik aneb Znovu o feminismu po eskymácku</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_060.xhtml#_idParaDest-66"/>
+    </navPoint>
+    <navPoint id="navpoint67" playOrder="67">
+      <navLabel>
+        <text>Listopadky z druhé ruky</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_061.xhtml#_idParaDest-67"/>
+    </navPoint>
+    <navPoint id="navpoint68" playOrder="68">
+      <navLabel>
+        <text>Zkuste políbit mouchu, pánové</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_062.xhtml#_idParaDest-68"/>
+    </navPoint>
+    <navPoint id="navpoint69" playOrder="69">
+      <navLabel>
+        <text>Našim Sabinkám</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_063.xhtml#_idParaDest-69"/>
+    </navPoint>
+    <navPoint id="navpoint70" playOrder="70">
+      <navLabel>
+        <text>Zdický fejeton o myších a lidech</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_064.xhtml#_idParaDest-70"/>
+    </navPoint>
+    <navPoint id="navpoint71" playOrder="71">
+      <navLabel>
+        <text>Sluníčko, petry, stroj, jaro, telefon – a tak vůbec: Nic</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_065.xhtml#_idParaDest-71"/>
+    </navPoint>
+    <navPoint id="navpoint72" playOrder="72">
+      <navLabel>
+        <text>Vážená redakce NLN – Nár. 9!</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_066.xhtml#_idParaDest-72"/>
+    </navPoint>
+    <navPoint id="navpoint73" playOrder="73">
+      <navLabel>
+        <text>P. S.</text>
+      </navLabel>
+      <content src="Text/konzul_v_afrikanech_067.xhtml#_idParaDest-73"/>
+    </navPoint>
+  </navMap>
+</ncx>
