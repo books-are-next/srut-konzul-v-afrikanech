@@ -3,7 +3,7 @@ title: Magor vnoučatům
 contentType: prose
 ---
 
-Ve vykropeném domečku  
+_Ve vykropeném domečku  
 svěcenou vodou…  
 … Holčičky tiše spí  
 do jejich dechu mísí se  
@@ -11,7 +11,7 @@ poklidné chroupání.
 To beran spásá pod okny  
 rozkvetlý heřmánek.  
 Tak nějak zlatý věk  
-vypadal asi.
+vypadal asi._
 
 Cituji útržkovitě z Domu s modrým beránkem, Magorovy labutí písně, dobou a místem vzniku (1982–1984, káznice Valdice) svázané s verši a prózičkami v „pasekovském“ vydání knihy Magor dětem. Byl jsem v tom domku tehdy, Františka mi něco malovala, Martička se dívala a Juliána, jejich máma, mě poslala na poštu pro balík z ciziny, protože byl těžký.
 
@@ -23,4 +23,4 @@ Když bude zlobit, ukážu jí i Magora a řeknu: „Tohle je, Aničko, pan sp
 
 „Aha,“ pochopí bystré vnouče – a dá si knihu od toho magora podepsat.
 
-2. dubna 1992
+> 2. dubna 1992

@@ -11,9 +11,7 @@ Jiří Voskovec prý říkal, že je doma tam, kde si pověsí klobouk. Ale já 
 
 Páně Voskovcův bonmot platí ostatně asi jen pro USA. Tam, zdálo se mi, bývají cizinci snadněji doma než třeba u nás v Evropě. Alespoň si to mezi sebou dávají najevo. Na důkaz přikládám dvě scénky ze života.
 
-Scénka první
-
-  
+### Scénka první
 
 Stalo se ve Far Rockaway, což je výspa New Yorku, šplouchá tam zbloudilý špinavý oceán, manhattanského taxikáře do takové díry stěží přemluvíte, ale sviští tam omlácený vlak podzemní dráhy. Take the A-train zpívala Ella Fitzgeraldová. Tak to je on.
 
@@ -35,9 +33,7 @@ V úzké ulici si Žid v černém klobouku zaparkoval svou bílou káru vedle 
 
 A rozešli se. Klobouk zmizel ve vratech banky, čepice za vrátky barové nálevny.
 
-Scénka druhá
-
-  
+### Scénka druhá
 
 Stalo se v San Franciscu. V jedné z těch uliček, jako stvořených pro sáňkování mých klukovských žižkovských let, je malá čínská kulinářská dílnička. Velice starý Číňan a jeho vnuk tam připravují jídla „take-away“, vezmi si domů nebo do úřadu, kam chceš. Stařec byl rituální kouzelník. Sekáčkem dokázal vykostit kapra a způsobem zvaným ti-chua-kchuai vytesal vepřovou ledvinku do tvaru orchideje.
 

@@ -3,8 +3,6 @@ title: Dějiny ve vosku
 contentType: prose
 ---
 
-  
-
 Byla to prima sezóna. Pražské holky vycházely z úřadů na ulici v minisukních. Blízko Národního divadla stála na pontonech dřevěná plovárna. Tam děvy slouply oděvy a opékaly se v bikinách na slunci, které tehdy bylo ještě neškodné, protože se nepsalo o ozónových dírách. Psalo se o socialismu s lidskou tváří. Na titulní straně jednoho oblíbeného týdeníku se objevil oblíbený politik dokonce s lidským tělem. Národ spatřil, jak vypadá první tajemník Strany v plavkách. Bylo v tom něco symbolického. Komunistická strana svlékla na chvíli partajní tesil a ukázala se občanům v trenýrkách.
 
 Alexander Dubček stál na prkně a hotovil se ke skoku do modré vody (podolského?) bazénu. Usmíval se z té výšky krásně a bezelst­ně jako Plaváček, který se stal princem, aby přemohl zlou saň. Před zraky diváků a reportérů skočil do hloubky jako do historie.
@@ -41,4 +39,4 @@ Bylo nebylo. Po čtyřiadvaceti letech jsem zase seděl s Andrewem U bílého 
 
 Vysvětlil jsem mu jednoduchá pravidla té naší hry. Zvláštní. V Anglii ji prý neznají.
 
-3. srpna 1992
+> 3. srpna 1992

@@ -3,8 +3,6 @@ title: "Ó\_ty vire virility!"
 contentType: prose
 ---
 
-  
-
 Z toho titulku mám radost. Zní mnohem líp takové zvolání než třeba Ó ty bacile chlapáctví! (Jak by se to dalo případně přeložit.) A komu patří ta apostrofa? Fidelu Castrovi.
 
 Samozřejmě že život a dílo tohoto seňora je causa zcela nevhodná pro fejeton. Spíše by to vydalo na soudní spis. Ale…
@@ -47,4 +45,4 @@ Dívám se, divím se a moc kouřím. Kutnohorské petry. Havanské ligeros, kt
 
 Dobře nám tak.
 
-1. srpna 1992
+> 1. srpna 1992

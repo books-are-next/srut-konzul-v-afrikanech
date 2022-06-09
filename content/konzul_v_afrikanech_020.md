@@ -3,8 +3,6 @@ title: Opařený, ale šťastný
 contentType: prose
 ---
 
-  
-
 Tak Silvestra 1996 mám za sebou, říkám si, to je dobré, neboť shlučovací povinnost vypsaná na tento den je mi protivná. Představa, že bych měl lokat sladké šampáňo z kolující láhve na Václavském náměstí dlážděném střepy, mne děsí.
 
 Uskakovat před pšoukajícími dělbuchy a radovat se ze světlice, která vzápětí nějakému chlápkovi na chodníku propálí šusťákovou bundu, mi připadá nedůstojné. A to nemluvím o psech.

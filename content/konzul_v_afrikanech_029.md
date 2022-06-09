@@ -3,9 +3,7 @@ title: "Výchova mladých Číňanek v\_Čechách"
 contentType: prose
 ---
 
-První díl
-
-  
+### První díl
 
 Život je plný překvapení a dobrá čínská restaurace je velmi dobrá. Pražští znalci doporučují tu v pasáži Světozor. Tu zavedenou. V Londýně vám znalci doporučí raději čínskou (thajskou, indickou) jídelnu nezavedenou. Vyznačuje se tím, že nemá ještě licenci na prodej alkoholu. Pitivo si však můžete přinést s sebou. Vaří se tam znamenitě a levně: prý aby se jídelna zavedla, získala licenci a stala se restaurací, kde už na znamenitosti a láci pokrmů tak nezáleží.
 
@@ -21,9 +19,7 @@ Slušně jsem ji požádal o sparty. Poslepu mi je podala nepřestávajíc zlob
 
 To mě rozzuřilo. Vždycky ztratím klid, když mi někdo řekne klídek. Jenže teď to pronesla nechutným pražským akcentem mladá porcelánová Číňanka. Zlost ve mně zůstala, ale obrátil jsem ji proti sobě. Tolik času jsem promarnil, proč jsem se neučil čínsky?
 
-Druhý díl
-
-  
+### Druhý díl
 
 Život je plný náhod a nepřivolaná náhoda přichází jako na zavolanou. Do Prahy přiletěla Wang. Wang je americká Číňanka a spisovatelka. Dal jsem jí kdysi v americkém kdesi svou vinohradskou adresu. A ona je najednou tady.
 

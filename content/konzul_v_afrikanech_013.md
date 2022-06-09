@@ -19,20 +19,20 @@ Jiní, zvláště básníci, se obešli bez stolů, pultů – i rohoží. Od 
 
 Na vichrném vidrholci pod horským srázem sedal a psal v prohlubni plochého kamene.
 
-Raduji se z každodenní cesty  
+_Raduji se z každodenní cesty  
 V révoví a v slujích pod mlhou  
 Přirozeně cítím, volně dýchám,  
 Společností oblaka mi jsou  
 Jsou tu cesty, nevedou však k světu  
 S kým a o čem přít se tedy mám?  
 Sám usedám na kamenném loži  
-Plná luna stoupá na Chan-šan
+Plná luna stoupá na Chan-šan_
 
 Když si u mnichů v dolině vyžebral krapet rýžového vína, zatoužil po společnosti. Na Mrazivé hoře však krčmy nebylo. A tak si po práci (tj. po básni) povídal sám se sebou, brblal, mumlal, zpíval si a tančil. Od pamětníků si vysloužil pověst potrhlého blázna, ale dobrá báseň mívá mnohem delší život než špatná pověst.
 
 „Člověk si postavil dům, aby udržel svět a počasí za dveřmi,“ napsal v dopise svému podpůrci Dylan Thomas. Sám si však nikdy žádný dům nepostavil – a v žádném z těch půjčených dlouho nepobyl. Když měl psát, zamykala ho jeho žena Caitlin v dřevěné boudě třikrát tři metry na ostrohu nad blátivou mořskou zátočinou, plnou vysokonohých volavek.
 
-Byl to můj třicátý rok nebi blíž  
+_Byl to můj třicátý rok nebi blíž  
 a já zaslechl z přístavu a z přilehlého lesa,  
 z tůněk škeblí a z pobřeží  
 vysvěceného volavkou  
@@ -40,7 +40,7 @@ ranní vábení,
 trkání plachetnic do sítí opředené hráze,  
 modlitbu vody, volání racka a křik havranů,  
 abych se zvedl  
-a šel…
+a šel…_
 
 Ovšemže se mu vždycky podařilo vyklouznout. A honem do městečka – od psacího stolu k pivnímu pultu – kde libovolným sousedům po pravici i po levici vyprávěl své báchorky a poslouchal jejich pábení. (Tohle hrabalovské slovo tu je na místě: řeč se vedla v mokrém Walesu, a ne v sušší Anglii.)
 

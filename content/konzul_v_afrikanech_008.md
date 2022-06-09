@@ -3,8 +3,6 @@ title: "Ó\_ta divoká léta šedesátá!"
 contentType: prose
 ---
 
-  
-
 Pořád o nich něco slyším nebo čtu. Někdo někde objeví nějaké neznámé domácí nahrávky Beatles – a v den, kdy je vypustí na trh, postaví se v Londýně, v Tokiu, v Oslu, v Praze do fronty děti, jejich rodiče, sem tam i prarodič.
 
 Když už se nic objevit nedá, pořádají se repliky. Do Woodstocku se sjedou děti, jejich rodiče, sem tam prarodič a čekají na bahno a na nějaké ozáření, hubené dívky slabších nervů se svlékají do půl těla.

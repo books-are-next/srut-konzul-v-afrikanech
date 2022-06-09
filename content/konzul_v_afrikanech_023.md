@@ -3,8 +3,6 @@ title: Where is your local?
 contentType: prose
 ---
 
-  
-
 Je čas dovolených, slušelo by se tedy psát o cizích metropolích. Nebudu. Sedím doma, abych mohl otevřít dveře těm, kteří se naopak z cizích metropolí poženou do té naší pohostinné. Vždyť už v roce 1792 si jistá Herberta Piozzi pochvalovala: „Žádná hospoda zde není tak špatná, abychom v ní nedostali bažanta a často též koroptví polévku.“ Sedím doma a mám bažanta v mrazáku; je to takový můj zvyk. Vždycky si odleželého bažanta nechám zmrazit na léto: jednoho z těch tří, které mi každý rok položí pod stromeček můj lesní bratr; to je zase jeho hezký zvyk.
 
 Bažanta tedy mám a mám v cizině i dost různých známých, protože jako si někdo snadno nadělá nepřátele, já si na svých (nemnoha) cestách nadělal hodně kamarádů a přítelkyň. A ti a ty se čas od času ozvou, přijedou do té naší matičky, složí si u nás v předsíni kufr a zeptají se: „Where is your local?“

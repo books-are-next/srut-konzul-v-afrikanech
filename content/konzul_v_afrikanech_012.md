@@ -21,4 +21,4 @@ Co tobě moře vydalo? volali jsme pateticky pod helénskou oblohou.
 
 Kámen, řekl a rozevřel dlaň. Měl na ní řecký kámen uloupený moři. Ukazoval čas, který byl, i ten, který bude.
 
-5. června 1993
+> 5. června 1993

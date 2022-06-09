@@ -3,8 +3,6 @@ title: "Pohádka o\_tom, jak pan Kolář učil jednoho mládence kouřit"
 contentType: prose
 ---
 
-  
-
 Byl nebyl, milá Barunko, krátký jara čas, kdy spisovatel byl nebyl svědomím národa. Literární noviny se prodávaly jako Blesk. Konala se Zahradní slavnost, popichovalo se Žertem i Sekyrou, ale přišel čas letní, srpnový.
 
 Pak spřátelené tanky projely českou krajinou, pak se stulily jako ovečky do milovických a jiných ohrad a vypadalo to na dlouhou, dlouhou zimu. Někteří spisovatelé se znovu probudili, jiní ještě nechtěli usnout. Ostatně Svaz spisovatelů, ten Goldstückerův a Seifertův, stále nebyl ještě oficiálně zrušen, i když v jeho chorém těle už vyrašilo zdravé soudružské jádro.

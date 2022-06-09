@@ -3,17 +3,13 @@ title: Maďary
 contentType: prose
 ---
 
-Úvod
-
-  
+### Úvod
 
 V těch bájných létech padesátých, kdy si Čech pod slovem chatka nepředstavil malou chatu, nýbrž a jedině stejnojmennou sovětskou konzervu sekaného krabího masíčka za nepředstavitelně směšnou cenu, pobýval můj starší bratr v dřevorubecké chatě v Kašperských Horách. S výučním listem dřevorubce měl pro mne hodnotu Jacka Londona.
 
 Ovšem když přijel do Prahy, proměnil se jako zázrakem v Elvise Presleyho. Tato jeho podoba souzněla mnohem víc s mými budoucími životními plány, vždyť dřevorubectví jsem obdivoval spíše platonicky. Bez pily břichatky bych se klidně obešel, za maďary bych dal život. (Malé m je správně.)
 
-Stať
-
-  
+### Stať
 
 Nejde tu o příslušníky sousedního národa, nýbrž o druh obuvi. Maďary byly ze stejné estetické štoudve jako účes zvaný v tuzemsku eman, jinde elvis. Jako ta vlna nad čelem vzdouvala se bota maďarka od nártu do bytelné a plné křivky a razila si cestu obdivem i opovržením chodců po obou stranách Trafu čili Václaváku.
 
@@ -23,9 +19,7 @@ Jasně červená barva maďarek, to byl rudý hadr, jímž majitel dráždil bý
 
 Připočteme-li k tomu roury, zvané též manesmanky, nohavice s doporučenou šíří dvacet centimetrů, navlas stejně jako výška záložky, a uvážíme-li, že končily nad kotníkem, aby mohly vyniknout barevné, příčně pruhované ponožky, dojdeme možná k překvapivému závěru…
 
-Závěr
-
-  
+### Závěr
 
 Boty mého bratra Gustava byly přímou, i když historicky dosud nezmíněnou příčinou tzv. maďarských událostí v roce 1956.
 

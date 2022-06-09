@@ -5,9 +5,7 @@ contentType: prose
 
 (Douška k romanci pro křídlovku)
 
-I
-
-  
+### I
 
 Mladý básník si připadá jako Robinson. Nějaká zvláštní metafyzická nehoda ho ztroskotala a laskavá nebo úplně netečná vlna ho vhodila na břeh pustého ostrova. Když je velmi mladý a má štěstí, potká na ostrově prsatou Tonku. Má ji a neví o tom, že ona má jeho.
 
@@ -15,13 +13,9 @@ Ze zaprášených lýtek tryskají prsaté Tonce andělsky bílá stehna. Mladý
 
 P. S.
 
-  
-
 Jak jinak. Příliv poselství zase vrátil. Ale to už po prašné cestě připlouvá loď komediantů. Starý Viktor od střelnice ustřelí křídlovkou kus oblohy a mladičká Terina od kolotoče zavýská, naskočí na sedačku za mladého básníka – a ostrov narazí na mělčinu nebe. Cokoli se stane, stává se zároveň i vzpomínkou.
 
-II
-
-  
+### II
 
 František Hrubín miloval poslední srpnové a první zářijové světlo v Lešanech. Chtěl se o ně podělit. Pozval si do své krajiny dva hodně mladé přátele. Vodil je po cestách mezi trnkami a sázavskými žulovými balvany. Cestou si ti dva nahýbali z láhve vína a ten, který jim ukazoval krajinu, nesl v ruce hrozen a rozkousával kuličky.
 
@@ -34,7 +28,5 @@ Ale nestačila nás minout docela. Básník ji zastavil, uklonil se a políbil 
 Popadla ojku káry, objela výmol na cestě, poplácala kupu sena svázanou v zástěře a ztrácela se po trnkové pěšině. Když se za ní trnky zavřely docela, řekl básník šťastně: „Kluci! To je Tonka! To bývala prsatá Tonka.“
 
 P. S.
-
-  
 
 Vrátili jsme se s Antonínem Brouskem z Lešan na Vinohrady až za tmy, až v noci. Hustě pršelo, pak se spustil liják. Na Tylově náměstí odpočívaly tramvaje a kouřilo se z nich, jako by byly napěchované senem.

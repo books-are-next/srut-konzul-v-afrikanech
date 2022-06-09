@@ -5,21 +5,15 @@ contentType: prose
 
 (Reportáž o třech dějstvích)
 
-Osoby děje:
-
-  
+_Osoby děje:_
 
 Básníci. Švitoří, cvrlikají, krákorají nebo mlčí v jazyce anglickém či v řeči hostitelské země.
 
-Místo děje:
-
-  
+_Místo děje:_
 
 Soul, přesněji Ramada Olympia, hotel s umělým vodopádem, bazény, saunami, salóny, s tiskovým střediskem, promenádním orchestrem a dvěma zubními kartáčky na osobu a den.
 
-Dějství první:
-
-  
+_Dějství první:_
 
 Hned u vchodu do mramorové haly, odkud zaznívá uvítací řeč prezidenta kongresu, vás osloví korejský gentleman v oxfordském obleku a tiskne vám do dlaně svou vizitku. „Básník?“ ptám se nejapně. „Ano, básník jehly a nitě,“ prohlásí a hned mi bere míru.
 
@@ -31,9 +25,7 @@ Mnohem hůř oblečený než já, ve svetru a s kabelou přes rameno, jediným
 
 „Musíš poznat Vozněsenskýho!“ volá Ginsberg a vleče mě z dosahu krejčího. Jsem zachráněn. Díky, dobrý americký strýčku. Zaslechl jsi mé němé kvílení.
 
-Dějství druhé:
-
-  
+_Dějství druhé:_
 
 Večerní recepce v třicetistupňovém vedru pod širým nebem. Tmavě modrá obloha a ultramarinová voda v bazénu, kolem něhož jsou stoly a mísy s masy, ovoci a zeleninami, krabi, ústřice, chobotničky, břichatí uzení lososi, jakož i uzené vepřové nožičky (národní pokrm), půlměsíčky česneku v sójové zálivce a pálivé zelí kim-či, pizza plněná krevetami a špenátem, recept, který Marco Polo prý ukradl Korejcům a Itálie si zrádně ten vynález přivlastnila, a dál za bazénem bílý klavír, z něhož se perlí Chopin a všude okolo na čtyři sta poetů a vykladačů poezie.
 
@@ -55,9 +47,7 @@ V khaki bundě, s neskutečně vrchovatým talířem v ruce, přes rameno kab
 
 „Rád bych do Prahy přijel,“ říká, „ale pořád se ještě trochu stydím. Co já jsem vlastně udělal proti tomu, že k vám přijely naše tanky? Vlastně nic. Napsal jsem jednu báseň s refrénem Kde je Václav Havel? Tou dobou byl zrovna ve vězení. Ale tu báseň mi cenzura zatrhla.“ A zesmutněl ve velkém hereckém gestu. To už i světla nad bazénem pohasínala a dáma za klavírem hrála Valčík na rozloučenou.
 
-Dějství třetí:
-
-  
+_Dějství třetí:_
 
 Pět dní trval ten slet. Básníci četli své básně, pronášeli své i cizí projevy, všelijak se veselili i nudili, pili, hodovali a dobře se měli. Básníci i našinec. Pak se ti domácí rozjeli do svých domovů, přespolní se rozletěli do svých rodných krajin – a já jsem zůstal. Přestěhoval jsem si tašku ke korejskému básníkovi s citoslovečným křestním jménem Oh. Má krásný moderní domek ve starém korejském stylu v jižní části města a neuznává židle a postele.
 
@@ -87,4 +77,4 @@ Padl jsem na ni jako do peřin.
 
 Dobrou noc, strýčku Allene.
 
-4. října 1990
+> 4. října 1990

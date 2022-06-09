@@ -3,8 +3,6 @@ title: Zkuste políbit mouchu, pánové
 contentType: prose
 ---
 
-  
-
 Setkal jsem se v životě s takovou spoustou hesel, výzev a rad, že bych si jimi mohl vystlat cestu do nebe. Všimněte si, že většina z nich našince vždycky někam posílá.
 
 Směle k radostným zítřkům, s Čedokem do světa, s penězi nikoli do matrace, nýbrž do spořitelny a s matrací – kam? To nám ani Jan Neruda neporadil.
@@ -33,4 +31,4 @@ Už vás slyším: A co má bejt? Vždyť až doposud jaro vždycky přišlo. K
 
 A tak na otázku, co má bejt, odpovídám: Co by bylo? Prostě jsem, pánové, políbil mouchu. Zkuste to taky. Ať je nás víc.
 
-21. března 1991 – 21. března 1998
+> 21. března 1991 – 21. března 1998
