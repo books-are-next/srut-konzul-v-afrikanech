@@ -3,8 +3,6 @@ title: Pravý živý indián
 contentType: prose
 ---
 
-  
-
 Máme léto a v televizi opět rudého bratra Vinnetoua a bílého bratra Old Shatterhanda. Hovoří spolu velebně – a česky. Kdysi na stříbrném plátně v dárkovém východoněmeckém balení si říkali: „Mein Bruder!“ Nebyli dabovaní. Jazyk Goethův má k jazyku Apačů daleko, ale pořád je to ještě pro kluky cizí, tedy tajný jazyk. A já dodnes zastávám svůj klukovský názor, že indián by neměl mluvit po našem. Je ho to nedůstojné. Howgh. O televizi domluvil jsem.
 
 Neboť jsem spatřil, zblízka zřel, ba dokonce pár slov (anglicky) prohodil s pravým živým indiánem. Oznamuji, že jméno toho rudého náčelníka v překladu zní Třínohý vlk.

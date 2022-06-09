@@ -3,8 +3,6 @@ title: "Sluníčko, petry, stroj, jaro, telefon\_– a\_tak vůbec: Nic"
 contentType: prose
 ---
 
-  
-
 Sahám po novinách na podpal. Mám kamna zvaná petry a stroj zvaný psací. Sedím a hledím. Sluníčko zkoumá dvorek a prodírá se vetchou střechou kůlny. Zimě ubývá na síle. Mám čas to pozorovat.
 
 Nemediálně medituju, hraju si na starého čínského básníka a čekám, co mě napadne, spoléhaje na počínající jaro.
@@ -25,4 +23,4 @@ Dodal jsem, že bílé místo v novinách působí vždycky významněji než t
 
 Zbytečně se radoval. Rubrika je, jak patrno, potištěná. Nic se neděje. Jen mi vyhasla kamna. Sahám po novinách na podpal…
 
-21. března 1995
+> 21. března 1995

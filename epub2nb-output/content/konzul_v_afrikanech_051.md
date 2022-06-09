@@ -3,8 +3,6 @@ title: "Čaj s\_náprstkem slivovice"
 contentType: prose
 ---
 
-  
-
 Měl jsem doma v sychravém podzimu cizojazyčnou návštěvu z Ameriky. On a ona bydleli v kuchyni, vařili si grog, spali ve spacáku a nevadilo jim, že si prostě musím ráno ve své kuchyni – jejich ložnici – uvařit hrnek kafe a přečíst noviny. Zvykli si, že je budím, a mžourali do novin spolu se mnou. Znali jen dvě česká slova, a to Havel a rum. Udivovalo je, že s tím druhým se setkávají každý den v titulcích denního tisku.
 
 „Nějaké problémy? Je rum pilířem vaší ekonomiky?“ ptali se. „Nejsou to signály směřující k prohibici?“

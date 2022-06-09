@@ -3,8 +3,6 @@ title: "O\_příslovích"
 contentType: prose
 ---
 
-  
-
 Už je to dávno. Celá dlouhá a krásná odpoledne jsme si v jedné denní vinárně protiřečili.
 
 Protiřečit si s hezkou, vzdělanou a vzácně intuitivní spisovatelkou je povznášející činnost. Protiřečili jsme si za pomoci přísloví. Znala jich spoustu, ale to se dalo díky Františku Ladislavu Čelakovskému a jiným pramenům dohnat. Doháněl jsem, seč mi prameny stačily, ale nebylo v jejich (těch pramenů) silách udržet s ní krok. Prameny byly příliš vážné, zabývaly se dokonce i odkazy na jiné prameny, leckdy dvakrát měřily, než do toho jednou řízly. Ona na prameny nehleděla, protože věděla. Věděla, že veškeré mudrosloví je plodem hravosti a mystifikace. Prostě si přísloví vymýšlela. Životní materiál, z něhož moudra, rady a návody k životu vznikají, brala do rukou jako vánoční těsto a hnětla cukroví netradiční, ale o to chutnější.
@@ -15,4 +13,4 @@ I naše maminka mívala vždycky po ruce pár přísloví a dokázala je uchop
 
 Dvakrát měř a jednou téměř.
 
-22. prosince 1993
+> 22. prosince 1993

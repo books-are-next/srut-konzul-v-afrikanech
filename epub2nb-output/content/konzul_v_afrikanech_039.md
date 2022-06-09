@@ -3,8 +3,6 @@ title: Čekání na anděla
 contentType: prose
 ---
 
-  
-
 V bývalé vinárně U Ježíška zřídili si (v sedmdesátých letech) bývalí básníci, malíři a jiní šťastní nešťastníci samosprávné sdružení šťastných majitelů jakýchkoliv vánočních dárků zakoupených namátkou. Prostě je přinesli „k Ježíškovi“ a tam se konala burza. Už bez chvatu a s vinným vcítěním pro všechny blízké jsme si v obchodech vybojované dárky navzájem směňovali a s večerem je odnášeli domů s pocitem, který vánoční povinnosti měnil ve vánoční těšení. Bez těšení se totiž Štědrý večer neobejde.
 
 Ač má v kalendáři pevně vyhrazené místo, připomíná mi tohle čekání na anděla – čekání na burčák u přátel, u Brichtů v Mikulově. Burčák ovšem den svého zesuduvstání stanoven nemá. A v tom je to kouzlo.

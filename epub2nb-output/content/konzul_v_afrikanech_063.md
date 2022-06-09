@@ -3,8 +3,6 @@ title: Našim Sabinkám
 contentType: prose
 ---
 
-  
-
 Zavolala mi dávná spolužačka, že by šla na kávu. Káva byla hustá a vídeňská, nešlo však o ni. Šlo o Jarmilku, dceru mé spolužačky.
 
 „Ty jsi neměl s výchovou své dcery moc starostí, co?“ vyfoukla s despektem kouř do mého obličeje.
@@ -45,8 +43,8 @@ Přehlédl jsem ten eufemismus a zeptal se rovnou, ve kterém že je měsíci. 
 
 Cestou do kavárny jsem si koupil v antikvariátu knihu. Český listář. Než spolužačka přišla, listoval jsem si tou sbírkou dopisů málem od Dalimila až po F. X. Šaldu. Zarazil jsem se nad psaním jakési Alžběty Meziříčské z Lomnice, která takto před dvěma sty lety odmítla ruku (i ruce) jakéhosi purkrabího:
 
-Slovutnej a statečnej rytíři, pane purkrabě milý! Pán Bůh dej Vám dobrej den a dobrou noc! A hned se mě nebezpečte, já vaše nechci bejti, nebo se mi nelíbíte, ste starej, škaredej, tlustej a ruce tlustý a škaredý máte a šedivý ste, a tak na krátce jinou sobě ptejte, nebo sem já mladá a vy ste starej kmet, protož taky se starou a vám rovnou bábou vopatřte!
+> _Slovutnej a statečnej rytíři, pane purkrabě milý! Pán Bůh dej Vám dobrej den a dobrou noc! A hned se mě nebezpečte, já vaše nechci bejti, nebo se mi nelíbíte, ste starej, škaredej, tlustej a ruce tlustý a škaredý máte a šedivý ste, a tak na krátce jinou sobě ptejte, nebo sem já mladá a vy ste starej kmet, protož taky se starou a vám rovnou bábou vopatřte!_
 
 Přečetl jsem ten dopis spolužačce, která se urazila, načež odešla. Škoda. Jarmilka mohla mít pokoj a hrabě Vittorio by se pocvičil ve zvonivé feudální češtině. Sotva by poznal, že jde o plagiát z Jarmilčiny strany, protože listář je kniha poměrně vzácná. Nicméně krásná. A praktická! Asi jako kuchařka, milé Sabinky.
 
-3. dubna 1994
+> 3. dubna 1994

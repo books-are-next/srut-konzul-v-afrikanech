@@ -3,8 +3,6 @@ title: "Jak odejít… a\_přitom zůstat doma"
 contentType: prose
 ---
 
-  
-
 S tím si neporadila Chytrá horákyně, nýbrž můj spolužák z jedné podivné socialistické školy.
 
 Nesl jméno Ivan, zatímco škola se jmenovala „dvouletý abi­turientský kurs pro absolventy jedenáctiletky při Hospodářské škole pro mezinárodní vztahy“. Do téhle lidodemo školské novinky mohli být přijati pouze jinoši. Jako ve staré dobré Anglii, přestože budova stála v pražské Resslově ulici a psal se školní rok 1957–1958.
@@ -25,4 +23,4 @@ Knížka lehce načrtnutých, jakoby spatra vyprávěných příhod a charakter
 
 Ale já jsem tu našel i zprávu o životě exulanta. Rodinný recept na emigrační stresy. Návod, jak odejít a přitom zůstat doma.
 
-10. září 1992
+> 10. září 1992

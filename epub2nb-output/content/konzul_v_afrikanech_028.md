@@ -33,8 +33,6 @@ Nám už to nestálo za to. Bylo k ránu. Mario se nabídl, že mě odveze na l
 
 Konec románu.
 
-Epilog
-
-  
+### Epilog
 
 O čtyři roky později, ale v prosinci, stála u našich dveří dívka na prahu ženství. Představila se jako Anna, dcera Brigity a Maria. Je poprvé v Praze a poprvé v cizině, prohlásila, a zpátky do Anglie ji nikdo nedostane, protože se tam nic neděje. Ostatně potkala tu Todora z pravoslavné rodiny a zjara se budou brát. Vlastně se přišla zeptat, jestli bych nepřišel na svatební party. Jen malá partička anglických, makedonských a amerických přátel. Ale ještě nevědí, v jaké hospodě to bude. U Vystřelenýho voka? U Zavěšenýho kafe? Co prý myslím. Tak jsem navrhl hospodu U Zlomenýho klíče. Zapsala si to a já se modlím jazykem všech věr, aby v Praze, kde je teď pro dychtivé mladé cizince všechno, do jara i nějaká ta U Zlomenýho klíče byla.

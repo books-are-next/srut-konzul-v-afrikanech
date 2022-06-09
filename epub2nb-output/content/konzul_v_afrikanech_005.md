@@ -3,8 +3,6 @@ title: Čtenář na koni
 contentType: prose
 ---
 
-  
-
 Bylo takový vedro, že pes honil kočku a oba šli krokem, sdělila mi, co viděla v Havířově, vzdálená H. B. To je dobré. Škoda že to nenapadlo mě.
 
 Přítel T. P. poslouchal celou noc u otevřeného okna a láhve mé nářky nad letošním znojným létem a nad psacím strojem zn. Con­sul, který je sice plný písmenek, ale kloudná věta z něho nevypadne. Civím na něj celé hodiny a nic mě nenapadá, stěžoval jsem si. Očekával jsem totéž, co vy. Přiznání podobného stavu, účastný povzdech či alespoň znavené přikývnutí.

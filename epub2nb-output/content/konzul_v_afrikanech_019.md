@@ -39,6 +39,4 @@ A hrome. To je zároveň smutné i povzbudivé.
 
 P. S.
 
-  
-
 Kurt Vonnegut přijel v roce 1985 neoficiálně do tehdy oficiálně nonstopůprosté Prahy. Několik českých autorů a samizdatových přátel se s ním sešlo a americký autor projevil chuť podívat se „mezi lidi“. Ale kam v tu hodinu? Jediný nonstop tehdy byl překladatelský. U Kořánů. Tak jsme tam šli. So it goes.

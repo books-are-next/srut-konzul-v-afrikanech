@@ -3,8 +3,6 @@ title: Člověče, nezlob mě
 contentType: prose
 ---
 
-  
-
 Asi tak před rokem jsem na tomto místě podal zprávu z jednoho městečka. O tom, jak moji dobří sousedé hrávají v hostinci Člověče, nezlob se neboli „hru na doudu“. Totiž: kdo v Člověče, nezlob se prohrál, musel si narazit srolovanou rádiovku přes uši, aby vypadal… no jako douda.
 
 Za ten rok se toho u nás hodně změnilo. Například rakovnické pivo vystřídal Staropramen. Taky desítka. A starosta je po volbách jiný. Taky ODS. I svět je zase o kus dál. Například mordování v Bosně vytlačila z obrazovek krvavá řež v Čečensku.

@@ -3,8 +3,6 @@ title: Ošklivost bez závoje
 contentType: prose
 ---
 
-  
-
 První pražský striptýz s lidskou zadní tváří, pokud si vzpomínám, měl svůj stánek ve Varieté ve Vodičkově ulici. Nesl eufemistický název Krása bez závoje…
 
 Striptease Chicago, knížka povídek Jana Nováka, si na eufemismy nepotrpí. Pohled na určitou vrstvu české chicagské komunity, kterou autor potkával na gulášovce a plzeňském ve Sparta klubu na Cermak Road nebo o kus dál v pivobaru U Čtyř stehen, je vždy ironický a místy sarkastický až krutý.
@@ -27,4 +25,4 @@ Tady v Chicagu se poprvé setkal se „surrealistickým českým dialektem“, 
 
 To byla asi ta chvíle, kdy se Novák, který měl co říct o Americe, změnil v Novaka, který má co říct Americe. Vyzná se v ní a Chicago má v uších. I se zavázanýma očima, když ho to popadne, dojede auťákem k tomu baru, který ani na mapě města není. Ale je tam blues a na podlaze piliny a bělovlasí černoši tam trsají jako zamlada – a jako tehdy na podzim v sedmaosmdesátém. Nevím už, jak se to tam jmenovalo, ale za límec mě nepopadli a nevyvedli, i když jsem podupával a přitleskával určitě mimo rytmus.
 
-13. srpna 1992
+> 13. srpna 1992

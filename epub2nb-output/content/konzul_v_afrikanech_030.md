@@ -9,18 +9,16 @@ Měl jsem sen. Hořký jako fernet. Něco mě tlačilo. Zvednu polštář – a
 
 Vezmu parte do rukou. Kam s ním? To stálo černé na bílém pod Janem Nerudou. A pod macatým andělíčkem nějaké verše…
 
-Konečně zármutek všechen  
+_Konečně zármutek všechen  
 jak voda uplyne.  
 Věru, nějak se žije,  
-nějak zahyne.
+nějak zahyne._
 
 To je přece František Gellner. Co tu chtějí? Právě Gellner s Ne­rudou! Takhle uprostřed noci – a ve snu?
 
 Ale už tuším. Je to moje parte. Ti dva nahoře se jistě nudí. Popatřili z nebeské výše na svého nicotného kolegu a dali mu vytisknout smuteční oznámení. Jeden ho lyricky chlácholí a druhý se nad jeho bezduchým tělem zamýšlí prakticky: Kam s ním? A čtu…
 
-  
-
-LIKNAVÝ MANŽEL, ZBĚHLÝ OTEC A VĚRNÝ FEJETONISTA ZESNUL NÁHLE UPROSTŘED DÍLA. VYSCHLO JEHO PERO, UMLKL PSACÍ STROJ. NA OSIŘELÉM STOLE ZŮSTAL NEDOPSÁN PODČÁRNÍK.
+> LIKNAVÝ MANŽEL, ZBĚHLÝ OTEC A VĚRNÝ FEJETONISTA ZESNUL NÁHLE UPROSTŘED DÍLA. VYSCHLO JEHO PERO, UMLKL PSACÍ STROJ. NA OSIŘELÉM STOLE ZŮSTAL NEDOPSÁN PODČÁRNÍK.
 
 Co bylo dál, nepřekvapí ani blba. Inu, probudil jsem se, osprchoval jsem se, vypil jsem kalíšek slivovice. Není to můj zvyk. Slivovici nemám rád.
 
@@ -34,16 +32,16 @@ Koukej, čtenáři, my si můžeme dovolit i žánr, který přímo k věci an
 
 Anonymní zamilovaný slovenský šuhaj, když si kladl nerudovskou otázku, složil bolavou písničku a hned ji pod okny frajérce zazpíval.
 
-Hora, hora, zelený les,  
+_Hora, hora, zelený les,  
 nevideu som milú dnes,  
 ani dneska, ani včera,  
-nedožijem do večera.
+nedožijem do večera._
 
 Představte si, že by o svém milostném soužení napsal fejeton. Bol by za somára! Jako já! Nedožijem do večera…
 
 Radši jdu spát. Zítra je „dead time“. Buď to dopíšu ráno, nebo mě najdou tuhého. A pod polštářem vlastní epitaf…
 
-Zde leží ten,  
+_Zde leží ten,  
 co nemíval pozemských statků  
 a nepřelez svůj vlastní plot,  
 zato však rád do zadku  
@@ -51,4 +49,4 @@ kopal se párem cizích bot.
 Bylo to tak a nejináč:  
 on prázdnou slámu mlátil.  
 U šenku kvetl zavináč  
-a rum mu život zkrátil.
+a rum mu život zkrátil._

@@ -3,8 +3,6 @@ title: "Tuglik aneb Znovu o\_feminismu po eskymácku"
 contentType: prose
 ---
 
-  
-
 Rád uvažuji ve volném čase o ženách.
 
 Je to téma prakticky nevyčerpatelné. Pokud nejste zrovna Jack Rozparovač, nikdy s tím nebudete hotov.
@@ -55,4 +53,4 @@ Tak končí ta eskymácká pohádka. Dávná a matriarchální jak morková kos
 
 Včetně feminismu, říkám si potichu. Protože: žena nebo muž, vyjde to nastejno, když je člověk sám.
 
-11. června 1992
+> 11. června 1992

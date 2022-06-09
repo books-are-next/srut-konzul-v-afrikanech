@@ -3,8 +3,6 @@ title: Krásná bláhová Dajána
 contentType: prose
 ---
 
-  
-
 Jmenovala se Kimberley. Potkal jsem ji nejprve na ulici v Portlandu (stát Oregon) a hned mi utkvěla její tvář a nohy. Šla sama proti proudu.
 
 Hlavní třídou totiž kráčel průvod amerických manželek či neprovdatelných a neprovdaných žen, vesměs v takzvaném středním věku. Vydaly se horlit před Hilton, hotel, kde se právě slavilo jakési výročí Playboye. Ten špalír spojovalo přesvědčení, že dobře placené pózující dívky v útržcích spodního prádla či bez, snímané na skvělý barevný materiál skvěle placenými fotografy, jsou jen povolnými nástroji v rukou mužů, jejichž životním cílem je ponížit ženu na erotické zboží.

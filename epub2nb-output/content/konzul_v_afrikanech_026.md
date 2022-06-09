@@ -3,8 +3,6 @@ title: Óda na zahlédnutý kotník
 contentType: prose
 ---
 
-  
-
 Před zahájením wimbledonského finále dvouhry mužů proběhla se po centrálním kurtu žena. Byla celá bez.
 
 Asi jí to slušelo, soudě podle nadšeného hýkání našeho televizního hlasatele. Sám to potvrdit nemůžu, protože jsem ji nezahlédl. Buďto ji „mé“ kamery nezabraly, nebo se mne v tu chvíli zeptala manželka, jestli nevím, kam si pověsila vodítko na psa, přestože musí vědět, že to nevím nikdy. Ale bral jsem si ji z lásky i se psem, a tak pokaždé formálně pár míst zcela nevhodných k uschování vodítka navrhnu. To mě nezabije. Ostatně nezabere to víc času, než kolik mladá, zdravá a nahá žena potřebuje k proběhnutí po trávě, než ji zatknou.

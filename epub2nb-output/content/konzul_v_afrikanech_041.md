@@ -3,8 +3,6 @@ title: Můj otec byl agent
 contentType: prose
 ---
 
-  
-
 Milá Barunko, můj tatínek byl v padesátých letech agent. Bohužel ne agent CIA. To by se mi dnes hodilo. Byl agent jedné vinohradské pojišťovny. Pojišťoval lidičky proti úrazu a proti krádeži. Na krádež budoucnosti žádná pojistka nebyla. Ani na duševní úrazy. A že jich bylo!
 
 Krátce po válce býval ve stejné pojišťovně disponentem. Nevím přesně, co to značí, jaká práva a povinnosti. Ale třeba to slovo někdo vykopá jako amforu a disponent se stane majetkem všeho lidu podobně jako dividenda, hypotéka nebo leasing.

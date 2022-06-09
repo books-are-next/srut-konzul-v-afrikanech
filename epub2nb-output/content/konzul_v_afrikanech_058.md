@@ -25,4 +25,4 @@ Bohužel ani s tímhle pomocným přirovnáním bych dneska u synů svých př
 
 A tak toho raději nechám. O duši už ani neceknu. Na mou duši.
 
-V Praze 25. února 1995
+> V Praze 25. února 1995

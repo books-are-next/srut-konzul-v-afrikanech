@@ -3,8 +3,6 @@ title: Stylové masáže
 contentType: prose
 ---
 
-  
-
 Zatímco novináři hájí právo zamlčet svého informátora, aby ho neuvedli v nebezpečí, já Elišku klidně prásknu. Elišce je sotva pětadvacet, má teplé oči, obratné ruce a hlas tak chlácholivý, že by mohla tišit neklid v hřebčinci.
 
 Bezmála čtyři týdny Eliščiny prsty laskaly mé chodidlo a kotník tak zaujatě, jako by z její strany šlo o něco víc než o rupturu lýtkového svalu a distorzi kotníku z mé strany.
@@ -23,11 +21,11 @@ Vylekal jsem se. Tak tohle je životní styl? Péče o tělo, potažmo o zdrav
 
 Svalovec Schwarzenegger je bezpochyby v USA i za vodou populárnější, než kdy býval třeba spisovatel Faulkner. Však také kulturista Arnold obědval s Rony Reaganem každý týden, zatímco William Faulkner dostal pozvání na soukromou večeři s prezidentem Kennedym jen jednou – a takto se mu z městečka Oxford (stát Mississippi) poděkoval:
 
-Vážený pane prezidente,
+> _Vážený pane prezidente,_
 
-velice si vážím Vašeho pozvání na večeři, ale nečekejte mne. Sarah, mou černou kuchařku, by velice mrzelo, kdybych dal Bílému domu přednost před jejími báječnými prasečími nožičkami s fazolovou kaší. Jistě přijmete mou omluvu s pochopením.
+> _velice si vážím Vašeho pozvání na večeři, ale nečekejte mne. Sarah, mou černou kuchařku, by velice mrzelo, kdybych dal Bílému domu přednost před jejími báječnými prasečími nožičkami s fazolovou kaší. Jistě přijmete mou omluvu s pochopením._
 
-_Váš William Faulkner_
+> _Váš William Faulkner_
 
 Tuto informaci nemám z četby. Hrdě mi obsah dopisu převyprávěla stará čiperná paní v jednom zastrčeném baru právě v tom Oxfordu (stát Mississippi), kam jsem se jel kvůli Faulknerovi podívat.
 
