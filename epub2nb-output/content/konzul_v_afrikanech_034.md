@@ -3,6 +3,8 @@ title: Hra na hraně
 contentType: prose
 ---
 
+<section>
+
 „Vzácná čtenářko, vzácný čtenáři. Všechna slova v této knize jsou skutečná. Pokud by některé konstelace navodily představu jiného děje nebo odlišného místa, nejde nutně o podobnost náhodnou,“ pohrává si Petr Kabeš v předmluvě Těžítek se zvětšelou floskulí starých dobrých románů.
 
 Ale co když jde o román? Ta sbírka maxim, aforismů, sentencí, básnických definic a citátů – „příběhů úst“ – má totiž děj i topografii, hrdina je sice odstraněn (doba byla nehrdinná), já je naprosto minimalizováno, ale protagonistu ta kniha má. Je to „paměť, které je třeba napovídat“. A když je nejhůře – i nejlépe – má „děj“ oporu v citátu. Neboť „citáty jsou cikády. Vyznačují se tím, že neumlkají. Zachytí se ve vzduchu a už se neutrhnou.“ (Mandelštam)
@@ -20,3 +22,5 @@ A dostane-li básník (Kabeš) chuť na „opravdovou“ báseň, zažene ji ja
 Přeháním, když i v těchto fragmentech vidím příběh, jenž je tak sugestivně zamlčen, že vydá za román?
 
 Možná. Ale přesto Ti, vzácná čtenářko, vzácný čtenáři, radím: Neposlechni svého autora a nečti Těžítka „jako pasiáns“. Kdepak na přeskáčku! Třebas s prodlevami, ale řádku po řádce a stránku po stránce je nutno číst tuhle knížku: Kabešův nezamýšlený, ale stěžejní, ne, stěžňový (od slova stěžeň) román.
+
+</section>

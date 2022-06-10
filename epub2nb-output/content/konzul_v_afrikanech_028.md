@@ -3,7 +3,13 @@ title: Zlomený klíč pod rohožkou
 contentType: prose
 ---
 
+<section>
+
 (Román)
+
+</section>
+
+<section>
 
 Titul nelže. Nabízím tu román v kostce, navíc pravdivý příběh. V září roku 1992 v městě Londýně rozhodl jsem se navštívit svého anglického přítele, a to bez výstrahy.
 
@@ -36,3 +42,5 @@ Konec románu.
 ### Epilog
 
 O čtyři roky později, ale v prosinci, stála u našich dveří dívka na prahu ženství. Představila se jako Anna, dcera Brigity a Maria. Je poprvé v Praze a poprvé v cizině, prohlásila, a zpátky do Anglie ji nikdo nedostane, protože se tam nic neděje. Ostatně potkala tu Todora z pravoslavné rodiny a zjara se budou brát. Vlastně se přišla zeptat, jestli bych nepřišel na svatební party. Jen malá partička anglických, makedonských a amerických přátel. Ale ještě nevědí, v jaké hospodě to bude. U Vystřelenýho voka? U Zavěšenýho kafe? Co prý myslím. Tak jsem navrhl hospodu U Zlomenýho klíče. Zapsala si to a já se modlím jazykem všech věr, aby v Praze, kde je teď pro dychtivé mladé cizince všechno, do jara i nějaká ta U Zlomenýho klíče byla.
+
+</section>

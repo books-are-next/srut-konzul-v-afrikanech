@@ -3,7 +3,13 @@ title: Where are you from?
 contentType: prose
 ---
 
+<section>
+
 (Dvě americké scénky)
+
+</section>
+
+<section>
 
 V první kapitole konverzační příručky pro lidi, kteří míří do USA, by měla být otázka: Where are you from? Američané se tak příchozích ptají. Odkud jste? S tím souvisí otázka: Kde jste doma?, ale takto se taktní člověk neptá.
 
@@ -60,3 +66,5 @@ Konfucius za výrobním pultem cosi trpělivě skřehotal.
 „Chápu,“ řekl jsem.
 
 Mládenec mi podal chřupavý závitek zvaný štěstí. Rozloučili jsme se. V parku si to rozbalím a přečtu. Ke každému chřupavému štěstíčku je totiž přibaleno chutné čínské příslovíčko přeložené do američtiny. Pravý Američan ale ty moudré hlouposti nečte. Jen cizinci… Proto když si ke mně na lavičku přisedla velice růžolící americká stařenka, bělostně se usmála: „Where are you from?“
+
+</section>

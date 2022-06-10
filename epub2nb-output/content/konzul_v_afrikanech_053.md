@@ -3,6 +3,8 @@ title: "Vůně mandlu a\_vůně mandlí"
 contentType: prose
 ---
 
+<section>
+
 Bylo to takhle v pátek, vystoupil jsem z letadla a koukal jako tele na Nový York. V kapse jsem měl padesát dolarů od amerického velvyslanectví. Pro případ nouze, řekli mi, kdyby vás nikdo na letišti nečekal. Abyste se dostal taxíkem do hotelu, vysvětlili mi.
 
 Třeba mě někdo z USIA (United States Information Agency) čekal, ale já jsem ztratil hlavu. Bylo tam moc lidí a všichni zřejmě věděli, kam mají namířeno. Já ne. A tak jsem zamířil k prvnímu taxíku.
@@ -23,4 +25,10 @@ A co s ním teď – v době akciových společností, koncernů, nadnárodn
 
 Ale abych přece jen držel krok s dobou, uzavřu kontrakt s nějakým Harúnem al Rašídem a budu od něho kupovat mandle, datle a fíky. Takový joint venture, víme. Prostě vůně mandlu a vůně mandlí v jednom (mém) malém krámku na pomezí Žižkova a Vinohrad.
 
+</section>
+
+<section>
+
 > 9. února 1991
+
+</section>

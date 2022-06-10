@@ -3,6 +3,8 @@ title: "O\_česneku, poezii a\_chytání zajíců"
 contentType: prose
 ---
 
+<section>
+
 Zvláštní a záhadný dárek jsem dostal k padesátým narozeninám. Letenku do Soulu plus týdenní placený pobyt v hotelu Ramada – jako pozvánku od jihokorejského ministra kultury na Dvanáctý světový kongres básníků. Světový kongres básníků! Nikdy předtím jsem o něčem podobném neslyšel, a kdybych slyšel, považoval bych to za zdařilou pitomost. Vlastně pořád nevím, co si o tom mám myslet: nejspíš to předešlé.
 
 Ale byl jsem tam a mohu tvrdit, že poezie v Koreji kvete, obchod bují, elektronice se daří, avšak česnek, který tu chroupají od rána do večera jako veverky oříšky, mají drobný a jaksi uchřadnutý.
@@ -24,3 +26,5 @@ Triumfálně jsem se pousmál a opáčil, že my, ač ekonomicky slabší země
 „Správně,“ pochválil si konzultant i prof. Lee. „Ale ten zajíc ať je korejský – a ne japonský. Neboť největším posláním Japonců je válečnictví. A pak obchod. Zatímco nejvyšší poslání nás Korejců je odedávna poezie. A pak obchod. Vyřiďte to panu Havlovi, sám je přece básník, a jeho ministrovi zahraničního obchodu. Mimochodem – ten je také básník?“
 
 „Pevně doufám,“ řekl jsem a jal se hůlkami honit bílý půlměsíček ve své misce. Chyť zajíce, ať ho máš! Za jejich elektroniku náš česnek.
+
+</section>

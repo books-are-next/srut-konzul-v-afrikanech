@@ -3,6 +3,8 @@ title: Magor vnoučatům
 contentType: prose
 ---
 
+<section>
+
 _Ve vykropeném domečku  
 svěcenou vodou…  
 … Holčičky tiše spí  
@@ -23,4 +25,10 @@ Když bude zlobit, ukážu jí i Magora a řeknu: „Tohle je, Aničko, pan sp
 
 „Aha,“ pochopí bystré vnouče – a dá si knihu od toho magora podepsat.
 
+</section>
+
+<section>
+
 > 2. dubna 1992
+
+</section>

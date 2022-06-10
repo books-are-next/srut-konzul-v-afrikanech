@@ -3,6 +3,8 @@ title: Óda na zahlédnutý kotník
 contentType: prose
 ---
 
+<section>
+
 Před zahájením wimbledonského finále dvouhry mužů proběhla se po centrálním kurtu žena. Byla celá bez.
 
 Asi jí to slušelo, soudě podle nadšeného hýkání našeho televizního hlasatele. Sám to potvrdit nemůžu, protože jsem ji nezahlédl. Buďto ji „mé“ kamery nezabraly, nebo se mne v tu chvíli zeptala manželka, jestli nevím, kam si pověsila vodítko na psa, přestože musí vědět, že to nevím nikdy. Ale bral jsem si ji z lásky i se psem, a tak pokaždé formálně pár míst zcela nevhodných k uschování vodítka navrhnu. To mě nezabije. Ostatně nezabere to víc času, než kolik mladá, zdravá a nahá žena potřebuje k proběhnutí po trávě, než ji zatknou.
@@ -34,3 +36,5 @@ A teď už se nahota vetře i do tak aristokratického sportu, jakým býval t
 Nedávno jsem viděl v TV sexy-žertovný wimbledonský sestřih sestávající pouze ze zdvižených sukének tenisových sportovkyň, zachycených kamerou ve chvíli vášnivého podání či příjmu. Nic mi to neřeklo. Esteticky – ani jinak.
 
 Co se mě týče – esteticky i jinak – dávám přednost dívčímu pozadí na barové židli. Nejlépe v upnutých, nedobytných džínsech značky… Nesmím jmenovat. Byla by to prý skrytá reklama.
+
+</section>

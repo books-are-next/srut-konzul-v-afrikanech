@@ -3,6 +3,8 @@ title: Poslední odpověď na poslední dopis Jana Skácela
 contentType: prose
 ---
 
+<section>
+
 > Milý Pavle!
 
 > … Nás pere pámbu všema čtyřma, i když za oknem karneval zrovna nezuří… Já už třetí týden ležím. Dokonce jsem přestal kouřit a asi se už o to nepokusím. Bohové se budou muset bez mojí oběti zápalné obejít. Ani se tak moc nenafukuju, že jsem nechal cigaret, ony spíš nechaly mne. Na nudu si ale nestěžuju, ono se teď pořád najednou něco děje. Zbýváme téměř poslední, záhy se něco uděje i u nás. A samozřejmě hodně po česku. Ze mne se však stal politický ateista a jsem skeptický na všechny strany. No nic… Salut!
@@ -30,3 +32,5 @@ contentType: prose
 > Jenže prázdno po té zprávě tu zůstalo pořád. Protože to je zpráva ne pro nás, ale o nás. O tom, jak nás ubývá. Nemyslím na básníky. Mužů ubývá. Žijeme ve vývěvě a dýcháme řídký vzduch usmíření. Ještě dýcháme. A ty jsi nevydechl naposled. Prostě ses nenadechl. A bylo to naposledy.
 
 > Tvůj Pavel
+
+</section>

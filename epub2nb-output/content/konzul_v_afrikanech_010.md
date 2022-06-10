@@ -3,6 +3,8 @@ title: Robinson František
 contentType: prose
 ---
 
+<section>
+
 (Douška k romanci pro křídlovku)
 
 ### I
@@ -10,6 +12,10 @@ contentType: prose
 Mladý básník si připadá jako Robinson. Nějaká zvláštní metafyzická nehoda ho ztroskotala a laskavá nebo úplně netečná vlna ho vhodila na břeh pustého ostrova. Když je velmi mladý a má štěstí, potká na ostrově prsatou Tonku. Má ji a neví o tom, že ona má jeho.
 
 Ze zaprášených lýtek tryskají prsaté Tonce andělsky bílá stehna. Mladý Robinson je jimi přitahován, ale zároveň se chce odtrhnout – jak jinak: slovy. Počká si na odliv a posílá příteli zprávu v láhvi: „Milý Slávo, tu Tonku, tu pěknou, už nechám. Víc než prsatá byla hrozná, nadávala i vodě. Když jí proud chrstl do krku, až se zakuckala, začala ho plácat a vztekle křičela: „Ty parchante!“
+
+</section>
+
+<section>
 
 P. S.
 
@@ -27,6 +33,12 @@ Ale nestačila nás minout docela. Básník ji zastavil, uklonil se a políbil 
 
 Popadla ojku káry, objela výmol na cestě, poplácala kupu sena svázanou v zástěře a ztrácela se po trnkové pěšině. Když se za ní trnky zavřely docela, řekl básník šťastně: „Kluci! To je Tonka! To bývala prsatá Tonka.“
 
+</section>
+
+<section>
+
 P. S.
 
 Vrátili jsme se s Antonínem Brouskem z Lešan na Vinohrady až za tmy, až v noci. Hustě pršelo, pak se spustil liják. Na Tylově náměstí odpočívaly tramvaje a kouřilo se z nich, jako by byly napěchované senem.
+
+</section>

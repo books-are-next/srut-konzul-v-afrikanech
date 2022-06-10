@@ -3,7 +3,13 @@ title: "Hodinky a\_kámen"
 contentType: prose
 ---
 
+<section>
+
 (Za hudebním skladatelem Jiřím Bulisem)
+
+</section>
+
+<section>
 
 Kdo odejde z Prahy na druhý konec času, jako by odešel docela. Jiný vítr tu smetá listí a stopy chodců na pozemské pouti.
 
@@ -21,4 +27,10 @@ Co tobě moře vydalo? volali jsme pateticky pod helénskou oblohou.
 
 Kámen, řekl a rozevřel dlaň. Měl na ní řecký kámen uloupený moři. Ukazoval čas, který byl, i ten, který bude.
 
+</section>
+
+<section>
+
 > 5. června 1993
+
+</section>

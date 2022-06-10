@@ -3,6 +3,8 @@ title: Postavit dům, zasadit strom…
 contentType: prose
 ---
 
+<section>
+
 Než se pokusím o skicu Antonína Brouska, musím přiznat, že jsem, co se týče osoby portrétovaného, předpojatý až dojatý a jenom Herodes by to nepochopil, protože…
 
 Jednoho únorového dne L. P. 1964 jsem mu svěřil svou právě z porodnice deportovanou dceru, aby nezkušeným rodičům předvedl, jak takové kluzké, vřískající hádě koupat. Básník se sklonil nad vaničkou a provedl ten mateřský úkon s rutinou, kterou by ocenila i Puškinova kojná.
@@ -33,4 +35,10 @@ Nuže, teď se Antonín Brousek vrací, alespoň svým psaním, do „starého b
 
 Zbývá mu jen postavit dům, zasadit strom a napsat pár knížek básní a kritických „osikových esejíků“ – samosebou už jen tak navrch. Nebo ne?
 
+</section>
+
+<section>
+
 > 8. října 1992
+
+</section>

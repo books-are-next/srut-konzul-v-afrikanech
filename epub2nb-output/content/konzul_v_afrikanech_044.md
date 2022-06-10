@@ -3,6 +3,8 @@ title: Maďary
 contentType: prose
 ---
 
+<section>
+
 ### Úvod
 
 V těch bájných létech padesátých, kdy si Čech pod slovem chatka nepředstavil malou chatu, nýbrž a jedině stejnojmennou sovětskou konzervu sekaného krabího masíčka za nepředstavitelně směšnou cenu, pobýval můj starší bratr v dřevorubecké chatě v Kašperských Horách. S výučním listem dřevorubce měl pro mne hodnotu Jacka Londona.
@@ -24,3 +26,5 @@ Připočteme-li k tomu roury, zvané též manesmanky, nohavice s doporučenou
 Boty mého bratra Gustava byly přímou, i když historicky dosud nezmíněnou příčinou tzv. maďarských událostí v roce 1956.
 
 Ano, jako každý mocenský akt sovětské vlády byla i invaze do Maďarska diktována zčásti i něčím zcela iracionálním, v tomto případě výsměšnou a drzou obuví zvanou maďary. Proslulé sandály Nikity Chruščova na řečnickém pultu v sídle OSN budiž mé hypotéze němými svědky.
+
+</section>

@@ -3,6 +3,8 @@ title: Víno je příběh
 contentType: prose
 ---
 
+<section>
+
 > Častěji brali jsme do rukou sklenici vína než pero.
 
 Jaroslav Seifert – Všecky krásy světa
@@ -16,6 +18,10 @@ Tom O’Grady je americký básník a vinař a překladatel Jaroslava Seiferta
 Bohužel třeba dodat: Tom O’Grady přiletěl v lednu z tabákové Virginie do zakouřené Prahy a při nočním putování narazil na smog a sychravý mrazík – a přišel o hlasivky.
 
 Až po letech se ozval. Prostě nabyl hlasu.
+
+</section>
+
+<section>
 
 > _Dear Pavel,_
 
@@ -46,3 +52,5 @@ Až po letech se ozval. Prostě nabyl hlasu.
 > _Díky za pozvání a za dopis. Moc jsem si na něm pochutnal. Pokud jde o tu naši svobodnou vinici, tak Jarda už není primátorem matičky Prahy, ani šéfredaktorem Playboye, nýbrž doufám zase spíše sám sebou. A já? Já jsem ti právě teď ukradl dobrou půlku fejetonu. Jsem zvědav, jestli to hoši z FBI vypátrají. Zdravím je._
 
 > _Tvůj Pavel_
+
+</section>

@@ -3,7 +3,13 @@ title: Zazipovaná Kimberley
 contentType: prose
 ---
 
+<section>
+
 (Druhý otevřený dopis Arnoštu Lustigovi)
+
+</section>
+
+<section>
 
 Milý a vážený příteli, jemuž se sluší vykat, i když nám nabídne tykání, už podruhé Vám otevřeně píši. A znovu o Kimberley.
 
@@ -34,3 +40,5 @@ píši Vám otevřeně a opakovaně, ale vy mi rozumíte. Sám přece stále ob
 Kimberley to pochopila. Do Prahy se už nechystá. Začala novou kariéru. V jednom prérijním městě vede jako lektorka pro milenecké a manželské dvojice Základní kurz erotických nepenetračních praktik. Co to je? Vysvětlila mi: je to věda o tom, jak muž má, může a musí umně využívat při milostných hrách všech svých údů – kromě toho jediného. Říkají jí Lady Love.
 
 Je to prý záslužné – v době AIDS – a zároveň vzrušující. Trocha historie, diapozitivy, něco tělovědy, grafy a křivky od poklidové nuly až do sedmého nebe, také dramatizované výjevy z literárních děl Henryho Millera, Philipa Rotha, Johna Updika a Milana Kundery, a nakonec praktické ukázky a cvičení. Být invenční, nebo nebýt, to je, oč tu běží, sděluje mi Kimberley Shakespearovým jazykem. Kdo by to od ní čekal! Našla se. A já prý na té proměně z Miss Zip v Lady Love mám hypnotický podíl, uzavírá svůj dopis Kimberley. Má zazipovaná láska, Arnošte.
+
+</section>

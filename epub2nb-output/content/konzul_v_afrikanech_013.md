@@ -3,7 +3,13 @@ title: "Volná noha u\_stolu"
 contentType: prose
 ---
 
+<section>
+
 (Za Bohumilem Hrabalem)
+
+</section>
+
+<section>
 
 Mám na mysli „volnou nohu“, nikoli volnou nohu. Tu druhou lze upevnit, přiklížit, přišroubovat, přitlouci, vyměnit, popřípadě i s celým stolem vyhodit.
 
@@ -55,3 +61,5 @@ To Charles Baudelaire se v náčrtech předmluvy ke Květům zla vyznává, že
 Žádná „nebeská farmaceutka“ také nemůže odlehčit samotu, kterou píšící pozemšťan u psacího stolu prožívá. Tam je na tom jako Chan-šan. Nic nemění, že se před ním místo Mrazivé hory tyčí jen zeď šrajbmašiny – nebo skála počítače.
 
 Tichá samota zůstává a rozvane ji (snad) „příliš hlučná samota“ míst, která se nazývají všelijak. U Sojků, U Hynků, U Zlatého tygra. A třeba i U Nebeské brány. Co my víme. Bohumil Hrabal to ví.
+
+</section>

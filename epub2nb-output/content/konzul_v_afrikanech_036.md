@@ -3,6 +3,8 @@ title: "O\_zaručené Peťákově cestě do nebe"
 contentType: prose
 ---
 
+<section>
+
 Je prý na nebesích takový zvláštní kout, řeklo by se reservé, pro mazavky, dudáky, vypravěče pravdivých historek, které se nestaly, a opilé básníky. Hvězdy na nočním nebi nejsou pak žádné vyhaslé balvany, nýbrž kymácivé lucerničky v rukou těch věčně nachmelených hříšníků, které si Bůh pro vlastní obveselení povolává – příliš brzy, většinou dřív, než stačí zestárnout. Tvrdí to jedna irská lidová pohádka.
 
 Peťák – ing. Petr Lampl (1930–1978), pokud vím, nikdy v Irsku nebyl. Až teď si tam pozpěvuje a kymácí lucerničkou.
@@ -24,4 +26,10 @@ Jeden nazval (v roce 1976) Peťák po smrti.
 
 Chemik a básník Lampl patřil erbovně ke Křižovnické škole čistého humoru bez vtipu, byl činelistou Neprašova Sen noci svatojánské bandu, výrazně spoluvytvářel genia loci smutného veselí Prahy, a já se nedopustím té pošetilosti, abych soubor vydaných peťákovin podroboval kritickému soudu. Raději se mužně schovám za Loutkáře ze stejnojmenné závěrečné prózičky: „Stojím za tím, co tu řekl Kašpárek!“ křičel loutkář staré školy v troskách svého demolovaného divadélka… A: „Nikdy nezapomínejme, že je možno vytvořit i loutku Loutkáře.“
 
+</section>
+
+<section>
+
 > 14. října 1993
+
+</section>
