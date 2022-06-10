@@ -3,6 +3,8 @@ title: "Čaj s\_náprstkem slivovice"
 contentType: prose
 ---
 
+<section>
+
 Měl jsem doma v sychravém podzimu cizojazyčnou návštěvu z Ameriky. On a ona bydleli v kuchyni, vařili si grog, spali ve spacáku a nevadilo jim, že si prostě musím ráno ve své kuchyni – jejich ložnici – uvařit hrnek kafe a přečíst noviny. Zvykli si, že je budím, a mžourali do novin spolu se mnou. Znali jen dvě česká slova, a to Havel a rum. Udivovalo je, že s tím druhým se setkávají každý den v titulcích denního tisku.
 
 „Nějaké problémy? Je rum pilířem vaší ekonomiky?“ ptali se. „Nejsou to signály směřující k prohibici?“
@@ -16,3 +18,5 @@ Aby si však nemyslela, že Lidové noviny jsou nějaký rumový věstník, muse
 Slovní hříčky se těžko překládají. Aby pochopili, sáhnu po novinách a čtu: „Na území ČR se opět vyskytuje Rum konzumný jemný, jehož obsah metanolu desetkrát převyšuje normou povolené množství. Jiný testovaný rum – plagiát firmy Fruta Brno – obsahoval podstatně vyšší množství benzenu. Naproti tomu vzorek originálního rumu z Fruty Brno obsahoval nadměrné množství dibutylftalátu, zatímco vzorek dalšího výrobce obsahoval…“
 
 „Stop! Stop it!“ volali cizinci – a tak jsem přestal a uvařil jim čaj. S náprstkem zaručeně domácí horňácké slivovice, kterou mi vozí herec Břéťa Rychlík, kvůli vůni.
+
+</section>

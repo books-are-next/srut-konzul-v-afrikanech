@@ -3,7 +3,13 @@ title: Sen hořký jako fernet
 contentType: prose
 ---
 
+<section>
+
 (Fejeton o fejetonu)
+
+</section>
+
+<section>
 
 Měl jsem sen. Hořký jako fernet. Něco mě tlačilo. Zvednu polštář – a pod ním parte! Křídově bílý list papíru, černě orámovaný, v levém rohu buclatý andělíček, v pravém horním rohu kresbička povědomé tváře. Binokl na nose, zdatný vous, to je přece Jan Neruda!
 
@@ -18,7 +24,15 @@ To je přece František Gellner. Co tu chtějí? Právě Gellner s Ne­rudou! T
 
 Ale už tuším. Je to moje parte. Ti dva nahoře se jistě nudí. Popatřili z nebeské výše na svého nicotného kolegu a dali mu vytisknout smuteční oznámení. Jeden ho lyricky chlácholí a druhý se nad jeho bezduchým tělem zamýšlí prakticky: Kam s ním? A čtu…
 
+</section>
+
+<section>
+
 > LIKNAVÝ MANŽEL, ZBĚHLÝ OTEC A VĚRNÝ FEJETONISTA ZESNUL NÁHLE UPROSTŘED DÍLA. VYSCHLO JEHO PERO, UMLKL PSACÍ STROJ. NA OSIŘELÉM STOLE ZŮSTAL NEDOPSÁN PODČÁRNÍK.
+
+</section>
+
+<section>
 
 Co bylo dál, nepřekvapí ani blba. Inu, probudil jsem se, osprchoval jsem se, vypil jsem kalíšek slivovice. Není to můj zvyk. Slivovici nemám rád.
 
@@ -39,6 +53,10 @@ nedožijem do večera._
 
 Představte si, že by o svém milostném soužení napsal fejeton. Bol by za somára! Jako já! Nedožijem do večera…
 
+</section>
+
+<section>
+
 Radši jdu spát. Zítra je „dead time“. Buď to dopíšu ráno, nebo mě najdou tuhého. A pod polštářem vlastní epitaf…
 
 _Zde leží ten,  
@@ -50,3 +68,5 @@ Bylo to tak a nejináč:
 on prázdnou slámu mlátil.  
 U šenku kvetl zavináč  
 a rum mu život zkrátil._
+
+</section>

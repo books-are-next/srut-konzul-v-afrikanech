@@ -3,6 +3,8 @@ title: "Zdický fejeton o\_myších a\_lidech"
 contentType: prose
 ---
 
+<section>
+
 Už je to tady. Vracejí se mi myšky. Dávám jim volný průchod – ostatně právě teď mi jedna proběhla kolem bačkor. Tuze čilá, velmi dychtivá. Jaro je tady. Berte to jako citát. Měl bych jí dát jméno, té myšce. Neměl bych po ní házet špunty od Müllera. Thurgau!
 
 Když jí dám jméno, mohu ji tím jménem okřiknout. Když se mi štrachá ve špajzu a když mi tam prokusuje igelitové tašky z ciziny. O tu škodu nejde. Na nervy mi to jde.
@@ -25,4 +27,10 @@ A poučení? Nechoďte na filmy natočené podle skutečných událostí. Nemoh
 
 Chraňte si své myšky.
 
+</section>
+
+<section>
+
 > 19. března 1994
+
+</section>

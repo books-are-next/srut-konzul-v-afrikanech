@@ -3,6 +3,8 @@ title: "Rum do čaje\_– čum do ráje"
 contentType: prose
 ---
 
+<section>
+
 Průpovídky většinou neznají svého autora, ale jakože výjimka potvrzuje pravidlo, „rum do čaje – čum do ráje“ mohou literární historikové připsat básníku Vladimíru Holanovi. Je to zaklínadlo pro holčičky, které jdou se skleničkou od hořčice do blízkého hostince pro rum – a potřebují nějakou mnemotechnickou pomůcku, aby nezapomněly, cože to mají tatínkovi koupit.
 
 Já jsem jako chlapeček tatínkovi pro rum nechodil. Chodil jsem pro rum mamince. Maminka měla rum ráda, do koblih. Tvrdívala, že jedině po rumu těsto na koblihy skutečně zvláční. (Že rum tuhle schopnost má, jsem shledal jednou nebo pětkrát i na sobě.)
@@ -19,6 +21,12 @@ Nerad bych byl považován za rumového advokáta. Rum má značně pošramoceno
 
 Řeknu-li „Rum a mléko ničím nenahradíš!“, bude to znít jako nejapný pokus o bonmot. Ale jsem hotov to vysvětlit. Nuže, několik mých přátel odešlo v uplynulém dvacetiletí do různých cizin zvaných souhrnně exil. Vesměs si zachovávali „paměť domova“. Ta paměť se napájí z výtažků vzpomínek, z prožitých událostí, útržků slov, vůní a chutí. Pár mých přátel si zcela nezávisle stýskalo nad tím, co za mořem nenašli. Slyšte: tuzemský rum to byl a prachobyčejná stánkařská hořčice!
 
+</section>
+
+<section>
+
 P. S.
 
 Omlouvám se vládě Spojených států amerických a jmenovitě celním orgánům na Kennedyho letišti v New Yorku za přestupek, jehož jsem se dopustil v září roku 1987 tím, že jsem nezákonně provezl v kufru s jednoduchým dnem pro své české přátele 5 (slovy pět) litrů tuzemského rumu a 3 (slovy tři) litry plnotučné hořčice. Berte to jako přiznání.
+
+</section>

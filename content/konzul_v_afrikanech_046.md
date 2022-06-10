@@ -3,6 +3,8 @@ title: Milý lidový deníčku,
 contentType: prose
 ---
 
+<section>
+
 musím se ti svěřit s tím, co mě trápí, a musím spěchat, neboť čas je neúprosný jako zákon o restituci. Už cítím, jak mi ruka toho zákona dopadá na rameno, blíží se duben – a je třeba přihlásit se o jeden hostinec s dobrým sklepem, velkým lokálem, tanečním sálem, kuchyní a dvěma obytnými místnostmi, to vše v jedné nejmenované vesnici u Čáslavi.
 
 Od raného dětství mám k tomu hostinci vztah. Byl jsem tu prvním diskžokejem v Čechách. Protože jsem ještě nedosáhl na pípu, obsluhoval jsem gramofon a tři desky. Na první bylo Kde domov můj, na druhé Škoda lásky a na té třetí povzdech Cikánko ty krásná. Povolený repertoár sestával však jen ze Škoda lásky a Cikánko ty krásná. Kde domov můj pouštěl výhradně strýc, a to pozdě v noci. Jednou mne hymna probudila. Vstal jsem a šel se přes lokál vyčurat. Tehdy jsem prokoukl ten strýcův a Škroupův trik. Totiž: sotva se z praskotu desky prodrala první slova, osazenstvo hospody povstalo a rozpomnělo se, kde je jejich domov. Strejda to pak jen rychle zkasíroval a vyvětral.
@@ -27,10 +29,20 @@ A tak jsem jim vysvětlil své rozpoložení asi těmito slovy: „Restituce je
 
 A tak jsme si povídali a tak jsme došli k závěru, že restituce není žádná legrace. Naštěstí máme, milý deníčku, ještě bratrance, protože byly tři. Tři sestry. Třeba se už o tu nešťastnou hospodu přihlásil on. Třeba to bere. Třeba si to nebere k srdci jako my. A navíc má hotelovou školu. A my budeme mít kaskadéra v přízni.
 
+</section>
+
+<section>
+
 > 23. března 1991
 
 ### Dovětek po létech
 
 Abych ten rodinný večírek ukončil. Nechali jsme to na něm. A on to bratranec nechal na nás. Takže jsme hostinec našeho dětství nechali Jednotě. Jsme nemožná rodina. Blbí, ale jednotní… Živi ze vzpomínek.
 
+</section>
+
+<section>
+
 > 20. června 1998
+
+</section>

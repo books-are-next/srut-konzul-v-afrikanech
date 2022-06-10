@@ -3,6 +3,8 @@ title: Fandové
 contentType: prose
 ---
 
+<section>
+
 Pan fotbalista Josef Bican vzpomínal na jedno protektorátní derby Sparta-Slavie: „Když hlasatel oznamoval sestavu Slavie a nakonec ohlásil Habáska, dvacet tisíc diváků se rozesmálo. Pokládali to za báječný vtip.“
 
 Co mě na tom sdělení upoutalo? Počet fanoušků a skutečnost, že všichni, nebo téměř všichni museli znát knihu Karla Poláčka Muži v offsidu nebo stejnojmenný film. Jinak by na jméno tak spontánně nezareagovali. A ještě něco: Pepa Bican objevil Frantu Habáska, jmenovce poláčkovského hrdiny, jednou na Žlutých lázních při nohejbalu. Zalíbilo se mu, co dokáže za kouzla s míčem, a tak ho pozval na velké hřiště. Trenér to s Habáskem zkusil a pak ho hned postavil jako levého halva v mistrovském zápase. A fandové se radovali. Fandové se smáli. Pozor, neposmívali se. Sparťané i slávisti se smáli i těšili, až neznámý Habásko vyběhne na trávník.
@@ -24,3 +26,5 @@ Otec: „Tak vidíte.“
 Z výchovných důvodů – a taky proto, abych něco viděl – stával jsem na dětské tribuně. Byla tam tehdy. Ale nebyl tam tehdy nápis Fandi, ale zůstaň člověkem.
 
 Ostatně si nevzpomínám, že by docházelo ke šťouchancům. Lokty, myslím. O šťouchání žerdí se ještě nic nevědělo – podobně jako o mraženém špenátu. „Ty špenáte!“ jsem ovšem coby děcko na rozhodčí hulákal.
+
+</section>

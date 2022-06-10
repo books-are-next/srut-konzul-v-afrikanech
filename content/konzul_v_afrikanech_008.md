@@ -3,6 +3,8 @@ title: "Ó\_ta divoká léta šedesátá!"
 contentType: prose
 ---
 
+<section>
+
 Pořád o nich něco slyším nebo čtu. Někdo někde objeví nějaké neznámé domácí nahrávky Beatles – a v den, kdy je vypustí na trh, postaví se v Londýně, v Tokiu, v Oslu, v Praze do fronty děti, jejich rodiče, sem tam i prarodič.
 
 Když už se nic objevit nedá, pořádají se repliky. Do Woodstocku se sjedou děti, jejich rodiče, sem tam prarodič a čekají na bahno a na nějaké ozáření, hubené dívky slabších nervů se svlékají do půl těla.
@@ -32,3 +34,5 @@ A jak se nám ty děti vyvedly, notovali jsme si tuhle. A jaké jsme měli št
 Ale zažili jsme je opravdu? A jak dlouho pod Petřínem trvala? Ať počítám, jak počítám, vychází mi to tak nejvíc na tři čtyři roky. Na dekádu dost málo. Nebo mám dlouhé vedení.
 
 Až když šedesátým létům odzvonilo, začal jsem si je užívat. Tonda, zběhlý student, emigroval, aby se zapsal k řádnému studiu na německé univerzitě, a já začal řádně chodit za školu života. Přestal jsem navštěvovat holiče a univerzitní knihovnu. Ochutnával jsem se Stankovičem lysohlávku, poslouchal Plastic People, myl se jen zřídka. Ale Jirousovi, když byl zrovna náhodou propuštěný, půjčoval jsem na pivo, protože v každé dobré české trafice prodávali rýmované omalovánky a leporela pro dětičky od jistého Petra Karmína. Kohoutky svobody ze šedesátých let, příliš prudce zavřené, zrezly. Muselo se proutkařit. Jezdilo se stopem na Moravu. Hodně se chodilo. Hodně se sedělo. Spalo se málo, spala země česká. Ó ta divoká léta sedmdesátá…
+
+</section>

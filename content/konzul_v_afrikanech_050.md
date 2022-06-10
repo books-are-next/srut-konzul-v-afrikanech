@@ -3,6 +3,8 @@ title: Člověče, nezlob mě
 contentType: prose
 ---
 
+<section>
+
 Asi tak před rokem jsem na tomto místě podal zprávu z jednoho městečka. O tom, jak moji dobří sousedé hrávají v hostinci Člověče, nezlob se neboli „hru na doudu“. Totiž: kdo v Člověče, nezlob se prohrál, musel si narazit srolovanou rádiovku přes uši, aby vypadal… no jako douda.
 
 Za ten rok se toho u nás hodně změnilo. Například rakovnické pivo vystřídal Staropramen. Taky desítka. A starosta je po volbách jiný. Taky ODS. I svět je zase o kus dál. Například mordování v Bosně vytlačila z obrazovek krvavá řež v Čečensku.
@@ -20,3 +22,5 @@ V tomhle salónu bohužel chybí nad barem nápis:
 Dávno již tomu. Na západní frontě klid. Armáda bojuje teď jen o prestiž, a tak lid český vzal zbraně do svých rukou. Ale co. V pokojném Švýcarsku má prý každá ves domobranu tvořenou z milých sousedů. A dostává od státu dokonce tanky!
 
 Nápad rozvádět nebudu, ale dávám ho ministru obrany k úvaze. Moc bych se za pár tanků pro naše klidné městečko přimlouval. Už pro ten pocit klidného posezení u piva. Tank se totiž do hospody nevejde.
+
+</section>

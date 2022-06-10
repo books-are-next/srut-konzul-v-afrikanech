@@ -3,6 +3,8 @@ title: Jak zrušit únor
 contentType: prose
 ---
 
+<section>
+
 Nedá se nic dělat, pořád je tu únor. Bývá i přestupný, přestože tak hnusnému měsíci by dvacet osm dní mělo stačit až až. Navíc se cpe do dějin. Hledím do Malého encyklopedického slovníku: Únorová revoluce v Paříži roku 1848. („Po krátkých pouličních bojích zvítězil lid.“) Únorová revoluce v Rusku 1917. („Zahájila dvojvládí Prozatímní vlády a sovětů.“) Únorové události roku 1948 v ČSR…
 
 To znám. Říkalo se jim Vítězný únor a já říkám (nerad), že jsem pamětník. Celá rodina seděla tehdy v kuchyni u stolu. Na stole poskakoval malý Telefunken Philips. Vycházely z něho zvuky. To Klement Gottwald hulákal cosi radostného na svůj lid a ten hulákal cosi na svého Klementa Gottwalda.
@@ -21,4 +23,10 @@ Ale ne. Nešlo mu o 25. únor 1948. Nýbrž o 25. únor 1923. V ten den pr�
 
 Tak vida, šlo to – a hned. A nám to trvalo jednačtyřicet let.
 
+</section>
+
+<section>
+
 > 21. února 1997
+
+</section>

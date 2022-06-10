@@ -3,6 +3,8 @@ title: Člověče, nezlob se
 contentType: prose
 ---
 
+<section>
+
 Homo sapiens, tvor vědoucí, je zároveň homo ludens, tvor hravý.
 
 Obecně vzato, sapiens jsou spíše ženy, muži si hrají. Naše klimatické podmínky nepřejí balkánským hrám na volném prostranství, proto se hraví muži stěhují pod střechy hostinců. Do jednoho z nich (U Zímů), přišla novinka, hrací automat Roulette. Řeknu vám, není to ono. Roulette se do české venkovské hospody nehodí, brání spolčovacímu pudu.
@@ -17,4 +19,10 @@ Zatímco muži u nás v Pobrdí si přeskakují pindíky v Člověče, nezlob
 
 „Já jsem jen kibic,“ hlesnu. „Píšu do novin.“
 
+</section>
+
+<section>
+
 > 18. března 1993
+
+</section>

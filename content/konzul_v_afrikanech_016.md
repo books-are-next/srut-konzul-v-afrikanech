@@ -3,15 +3,29 @@ title: "35 000 básníků a\_deus ex machina Allen Ginsberg"
 contentType: prose
 ---
 
+<section>
+
 (Reportáž o třech dějstvích)
+
+</section>
+
+<section>
 
 _Osoby děje:_
 
 Básníci. Švitoří, cvrlikají, krákorají nebo mlčí v jazyce anglickém či v řeči hostitelské země.
 
+</section>
+
+<section>
+
 _Místo děje:_
 
 Soul, přesněji Ramada Olympia, hotel s umělým vodopádem, bazény, saunami, salóny, s tiskovým střediskem, promenádním orchestrem a dvěma zubními kartáčky na osobu a den.
+
+</section>
+
+<section>
 
 _Dějství první:_
 
@@ -24,6 +38,10 @@ Hned u vchodu do mramorové haly, odkud zaznívá uvítací řeč prezidenta ko
 Mnohem hůř oblečený než já, ve svetru a s kabelou přes rameno, jediným mrknutím poznal přesně, co já jen tušil. Totiž že úhrada za smoking nebude v režii jihokorejského ministerstva kultury, jehož úradku a štědré kapse vděčím za to, že jsem přiletěl, že tu stojím, že tu budu chodit a lovit z mís všelikou mořskou i suchozemskou havěť a rovněž švitořit a cvrlikat a krákorat a mlčet.
 
 „Musíš poznat Vozněsenskýho!“ volá Ginsberg a vleče mě z dosahu krejčího. Jsem zachráněn. Díky, dobrý americký strýčku. Zaslechl jsi mé němé kvílení.
+
+</section>
+
+<section>
 
 _Dějství druhé:_
 
@@ -46,6 +64,10 @@ V khaki bundě, s neskutečně vrchovatým talířem v ruce, přes rameno kab
 „Tady Pavel je z Prahy,“ vrací ho Ginsberg na zem, „ten ti to může potvrdit.“ Ptám se co, a tak Allen zřejmě již po několikáté Vozněsenskému vypráví, jak byl v květnu na slavnosti Občanského fóra v Praze, jak četl na tribuně své verše, jak bylo Václavské náměstí plné, jak ho poslouchalo přes čtyřicet tisíc lidí. „Mám pravdu?“ ptá se mě a já alibisticky přisvědčuju: „Ano, byli tam.“ A lákám i Andreje na podobný zážitek.
 
 „Rád bych do Prahy přijel,“ říká, „ale pořád se ještě trochu stydím. Co já jsem vlastně udělal proti tomu, že k vám přijely naše tanky? Vlastně nic. Napsal jsem jednu báseň s refrénem Kde je Václav Havel? Tou dobou byl zrovna ve vězení. Ale tu báseň mi cenzura zatrhla.“ A zesmutněl ve velkém hereckém gestu. To už i světla nad bazénem pohasínala a dáma za klavírem hrála Valčík na rozloučenou.
+
+</section>
+
+<section>
 
 _Dějství třetí:_
 
@@ -77,4 +99,10 @@ Padl jsem na ni jako do peřin.
 
 Dobrou noc, strýčku Allene.
 
+</section>
+
+<section>
+
 > 4. října 1990
+
+</section>

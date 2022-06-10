@@ -3,6 +3,8 @@ title: Malá recenze na čisté víno
 contentType: prose
 ---
 
+<section>
+
 Od jisté doby si dávám pozor na lidi, kteří mi chtějí nalít čistého vína. Jednou dvakrát jsem to dovolil – a pak jsem byl otrávený. To dá rozum, že tomu jejich čistému vínu muselo předcházet víno zkalené nebo dočista zkyslé. Nalévání čistého vína je mi od té doby podezřelé a vůbec nepatřičné. Asi jako doslov uprostřed knihy.
 
 Obou zmíněných nešvarů se teď exemplárně dopouštím. Ukrývám doslov ve shluku nevinných stránek a nalévám vám čistého vína, neboť nenaleju-li je já, naleje vám je Julia, znáte to.
@@ -13,4 +15,10 @@ Takový výbor je bilanční pohled zpátky. A já zjistil – teď přijde to
 
 Nenaliješ-li, zoctovatí. Což platí o vínu stejně jako o přátelství a lásce. To už vím.
 
+</section>
+
+<section>
+
 > 26. června 1998
+
+</section>

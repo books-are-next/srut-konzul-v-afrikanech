@@ -3,7 +3,13 @@ title: Feminismus po eskymácku
 contentType: prose
 ---
 
+<section>
+
 Feministický oheň, zdá se, dobrou českou ženu nepálí. V posledním čísle Iniciál, sešitů nezavedené literatury, v anketě o feminismu odpovídá básnířka, režisérka a zpěvačka.
+
+</section>
+
+<section>
 
 > _Musím se přiznat, že jsem nikdy neuvažovala, co je ženský pohled, i když se bezpochyby tímto pohledem dívám._
 
@@ -33,4 +39,10 @@ Vybral jsem si nejkratší a čtu: Sermerssuak byla tak silná, že dokázala z
 
 Dočetl jsem. Barbie si mě změřila vítězným pohledem a odešla. Zůstal jsem u stolu sám a v té kavárně, obývané převážně ženami, jsem si připadal jako Eskymák, na kterého se při rozdávání nedostalo.
 
+</section>
+
+<section>
+
 > 11. dubna 1992
+
+</section>

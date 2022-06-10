@@ -3,6 +3,8 @@ title: Stylové masáže
 contentType: prose
 ---
 
+<section>
+
 Zatímco novináři hájí právo zamlčet svého informátora, aby ho neuvedli v nebezpečí, já Elišku klidně prásknu. Elišce je sotva pětadvacet, má teplé oči, obratné ruce a hlas tak chlácholivý, že by mohla tišit neklid v hřebčinci.
 
 Bezmála čtyři týdny Eliščiny prsty laskaly mé chodidlo a kotník tak zaujatě, jako by z její strany šlo o něco víc než o rupturu lýtkového svalu a distorzi kotníku z mé strany.
@@ -20,6 +22,10 @@ Když jsem si pak, uvažuje o tom, jaký mám životní styl, vařil v „sest
 Vylekal jsem se. Tak tohle je životní styl? Péče o tělo, potažmo o zdraví, jistě k modernímu životnímu stylu patří, ale fakt, že maturitní ročník školy životního stylu nemá jediný předmět z oboru „péče o duši“, mě překvapil. Asi jsem beznadějně staromódní, ale fitcentrum mi připadá stejně důležité jako veřejná knihovna.
 
 Svalovec Schwarzenegger je bezpochyby v USA i za vodou populárnější, než kdy býval třeba spisovatel Faulkner. Však také kulturista Arnold obědval s Rony Reaganem každý týden, zatímco William Faulkner dostal pozvání na soukromou večeři s prezidentem Kennedym jen jednou – a takto se mu z městečka Oxford (stát Mississippi) poděkoval:
+
+</section>
+
+<section>
 
 > _Vážený pane prezidente,_
 
@@ -44,3 +50,5 @@ Ale abych se vrátil do špitálu. Šlapal jsem ve cvičebně na rotopedu, lýtk
 „Ano,“ přiznal jsem, „zvlášť když mi dojdou cigarety.“
 
 Eliška chápavě přikývla (podobných špitálních fórků slyší denně tucty) a vrhla se mi na lýtko. Je to už takový její životní styl.
+
+</section>

@@ -3,6 +3,8 @@ title: Opařený, ale šťastný
 contentType: prose
 ---
 
+<section>
+
 Tak Silvestra 1996 mám za sebou, říkám si, to je dobré, neboť shlučovací povinnost vypsaná na tento den je mi protivná. Představa, že bych měl lokat sladké šampáňo z kolující láhve na Václavském náměstí dlážděném střepy, mne děsí.
 
 Uskakovat před pšoukajícími dělbuchy a radovat se ze světlice, která vzápětí nějakému chlápkovi na chodníku propálí šusťákovou bundu, mi připadá nedůstojné. A to nemluvím o psech.
@@ -28,3 +30,5 @@ Nastalo pěkné zimní husákovské poledne, když jsem se v bačkorách koneč
 Mlčky postavila hrnec na sporák a gestem mě pozvala ke stolu. Polévka voněla a žena mlčela. Ten kotel horké rajské polévky se sýrovými knedlíčky ke mně nesla nekonečně pomalu a pak mi jej nečekaně rychle obrátila na hlavu. Zůstal jsem jako opařený. Ale šťastný!
 
 Byla taková doba. Vážili jsme si domova. Venku se zavíralo a sem tam pouštělo. Má žena teď po létech na ten večírek vzpomíná ráda. Nerada vaří.
+
+</section>

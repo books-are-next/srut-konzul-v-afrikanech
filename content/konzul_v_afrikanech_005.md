@@ -3,6 +3,8 @@ title: Čtenář na koni
 contentType: prose
 ---
 
+<section>
+
 Bylo takový vedro, že pes honil kočku a oba šli krokem, sdělila mi, co viděla v Havířově, vzdálená H. B. To je dobré. Škoda že to nenapadlo mě.
 
 Přítel T. P. poslouchal celou noc u otevřeného okna a láhve mé nářky nad letošním znojným létem a nad psacím strojem zn. Con­sul, který je sice plný písmenek, ale kloudná věta z něho nevypadne. Civím na něj celé hodiny a nic mě nenapadá, stěžoval jsem si. Očekával jsem totéž, co vy. Přiznání podobného stavu, účastný povzdech či alespoň znavené přikývnutí.
@@ -18,3 +20,5 @@ Pak jsme se rozloučili. Bylo k ránu. Probudil jsem se v poledne už jako sir
 V sedle seděl jinoch. (Nemohl to být mladík, ti sedají v sedlech motocyklů.) V sedle seděl jinoch, uzda mu visela volně zavěšená v loktech a ruce držely knížku. Kůň kráčel v odpoledním slunci po louce a jinoch si četl. Viděl jsem to. Tohle bych si nedokázal vymyslet. Už se nikdy více neukázal…
 
 Vrátil jsem se do Prahy po čtrnácti dnech a rovnou na dvoreček mezi afrikány. Byl tu. Sblížil se s okolím. Konzul i beze mne v přírodě pracoval. Městská vegetace ho přijala. Můj přítel se propadal do hlíny a zarůstal zelení. Můj přítel T. P. ho (doufám) jezdil zalévat, ale nepřizná to, co budu živ, a psát.
+
+</section>

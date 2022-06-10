@@ -3,6 +3,8 @@ title: Where is your local?
 contentType: prose
 ---
 
+<section>
+
 Je čas dovolených, slušelo by se tedy psát o cizích metropolích. Nebudu. Sedím doma, abych mohl otevřít dveře těm, kteří se naopak z cizích metropolí poženou do té naší pohostinné. Vždyť už v roce 1792 si jistá Herberta Piozzi pochvalovala: „Žádná hospoda zde není tak špatná, abychom v ní nedostali bažanta a často též koroptví polévku.“ Sedím doma a mám bažanta v mrazáku; je to takový můj zvyk. Vždycky si odleželého bažanta nechám zmrazit na léto: jednoho z těch tří, které mi každý rok položí pod stromeček můj lesní bratr; to je zase jeho hezký zvyk.
 
 Bažanta tedy mám a mám v cizině i dost různých známých, protože jako si někdo snadno nadělá nepřátele, já si na svých (nemnoha) cestách nadělal hodně kamarádů a přítelkyň. A ti a ty se čas od času ozvou, přijedou do té naší matičky, složí si u nás v předsíni kufr a zeptají se: „Where is your local?“
@@ -18,3 +20,5 @@ Ale co, stejně jsem se potřeboval trochu usadit. Sbohem Karlíne, sbohem „zl
 Ani tady jsem svůj lokál hledat nemusel. Znal jsem ho odedávna jako U Lojzy, a teď jsem se k němu jenom přistěhoval. Točil se tu velkopopovický kozel, když to ještě bylo znamenité pivo, a třebas už se jmenoval U Tržnice, hospoda to byla „vo něčom“, jak říkával usedlík a šansoniér Jaroslav Jakoubek, po němž jsem zdědil hůl a jsem na to patřičně hrdý.
 
 Když brzo po odzvonění přijížděli první známí z ciziny a ptali se: „Where is your local?“ – bral jsem je právě sem. Ale přišla restituce a adaptace, u Tržnice se to změnilo k nepoznání – a já nejsem kukačka. Jen tak neusadím vejce do cizího hnízda. Sedím doma. My house – my local.
+
+</section>

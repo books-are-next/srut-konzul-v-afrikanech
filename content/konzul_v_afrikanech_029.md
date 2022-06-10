@@ -3,6 +3,8 @@ title: "Výchova mladých Číňanek v\_Čechách"
 contentType: prose
 ---
 
+<section>
+
 ### První díl
 
 Život je plný překvapení a dobrá čínská restaurace je velmi dobrá. Pražští znalci doporučují tu v pasáži Světozor. Tu zavedenou. V Londýně vám znalci doporučí raději čínskou (thajskou, indickou) jídelnu nezavedenou. Vyznačuje se tím, že nemá ještě licenci na prodej alkoholu. Pitivo si však můžete přinést s sebou. Vaří se tam znamenitě a levně: prý aby se jídelna zavedla, získala licenci a stala se restaurací, kde už na znamenitosti a láci pokrmů tak nezáleží.
@@ -38,3 +40,5 @@ Já jsem předstíral, že si čtu v měsíčníku pro obě strany stolu. Asi z
 „Učit Číňany česky,“ odpověděla Wang, „není to wonderful? No řekni. Co koukáš? Vnímáš mě vůbec?“
 
 „Klídek,“ udrobil jsem. „Něco řeším.“
+
+</section>

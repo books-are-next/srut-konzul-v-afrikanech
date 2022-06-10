@@ -3,6 +3,8 @@ title: Pravý živý indián
 contentType: prose
 ---
 
+<section>
+
 Máme léto a v televizi opět rudého bratra Vinnetoua a bílého bratra Old Shatterhanda. Hovoří spolu velebně – a česky. Kdysi na stříbrném plátně v dárkovém východoněmeckém balení si říkali: „Mein Bruder!“ Nebyli dabovaní. Jazyk Goethův má k jazyku Apačů daleko, ale pořád je to ještě pro kluky cizí, tedy tajný jazyk. A já dodnes zastávám svůj klukovský názor, že indián by neměl mluvit po našem. Je ho to nedůstojné. Howgh. O televizi domluvil jsem.
 
 Neboť jsem spatřil, zblízka zřel, ba dokonce pár slov (anglicky) prohodil s pravým živým indiánem. Oznamuji, že jméno toho rudého náčelníka v překladu zní Třínohý vlk.
@@ -24,3 +26,5 @@ Pak přístroj dramatikovi vrátil a zmizel ve svém hliněném vig­vamu. Kdy�
 „S touhle památkou“ (ukázal na fotoaparát) „si mě můžeš vy­blejsknout. Na památku, můj bílý bratře!“ Tak pravil pravý živý indián z kmene Navahů a zámek lícních kostí uvolnil k širokému, skoro ruskému úsměvu.
 
 Stál jsem vedle, stál jsem tam v rudém písku a v troskách svých klukovských indiánských snů. Neměl jsem tam jezdit. Karel May věděl, proč se nedobrovolně i dobrovolně držel doma.
+
+</section>

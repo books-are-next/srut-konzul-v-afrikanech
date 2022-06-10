@@ -3,7 +3,13 @@ title: Duše
 contentType: prose
 ---
 
+<section>
+
 (Dopis do H.)
+
+</section>
+
+<section>
 
 Má vzdálená a stále neznámá!
 
@@ -25,4 +31,10 @@ Bohužel ani s tímhle pomocným přirovnáním bych dneska u synů svých př
 
 A tak toho raději nechám. O duši už ani neceknu. Na mou duši.
 
+</section>
+
+<section>
+
 > V Praze 25. února 1995
+
+</section>

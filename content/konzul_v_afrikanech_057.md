@@ -3,6 +3,8 @@ title: Čeština
 contentType: prose
 ---
 
+<section>
+
 ### Úvod
 
 „Se ti, vole, divím,“ řekl mi kamarád od bigbítu, když jsem mu já řekl, že už musím domů – psát článek o češtině. „Čeština si poradí sama,“ pravil. „Stejně budeš jako všichni skuhrat, jak se teď przní, že jo, vole?“
@@ -27,4 +29,10 @@ Oběma rád přitakávám. Čeština si poradí sama a o její budoucnost se n
 
 To oni jsou: „Mol v drahém rúše, ryba na suše, kozel v zahradě, Němec v české radě.“
 
+</section>
+
+<section>
+
 > 11. února 1995
+
+</section>

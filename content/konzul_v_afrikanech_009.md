@@ -3,6 +3,8 @@ title: Tři červená jablíčka aneb Chvála krásné vyhlídky
 contentType: prose
 ---
 
+<section>
+
 Psal se rok 1975 nebo 1981, kdo si to má pamatovat, doba byla unavená. Krčemná Praha od básníků prázdná a Jan Skácel nepřijížděl. Jednou chyběl důvod a podruhé scházely peníze na cestu. A když se tady někdy mihl, kde na něho natrefit? Tehdy i tamtamy lhaly.
 
 V Praze totiž chyběla a schází brněnská Bellevue, ta sice ani ryba, ani rak, ani kavárna, ani hospoda, ale zato krásná vyhlídka, že uvnitř někoho potkáte. U nás ve Spálence už pažravec moci chroustal historickou vinárnu U Ježíška a vyzvrátil ji v podobě ošuntělé stavebnice obchodního domu Máj. Naproti zůstalo U Šupů, kde večer sedávali pohrobci Steklíkovy a Neprašovy Křižovnické školy a vlasatí androši a Eugen Brikcius, Tomáš Pěkný a já, někdy Petr Kabeš. O kus dál se (doslova) rozkládala kavárna Slavia, ale ještě tu stál pověstný mramorový stolek, kde držel slovo Jiří Kolář, Josef Hiršal, Jan Vladislav a někdy Kabeš. Ani to už dávno neplatí.
@@ -70,4 +72,10 @@ Našlapoval jsem pokorně a nemotorně jako havran, který se rozhodl v Brně 
 
 A toto je douška: když jsem ráno vystoupil na Hlavním nádraží, hlavní město jsem neviděl tak černě. A nadosmrti vím, že pták rozhoupe celou zahradu teprve potom, co větývku opustí.
 
+</section>
+
+<section>
+
 > 6. listopadu 1991
+
+</section>

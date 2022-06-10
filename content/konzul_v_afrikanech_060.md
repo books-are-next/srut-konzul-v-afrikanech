@@ -3,6 +3,8 @@ title: "Tuglik aneb Znovu o\_feminismu po eskymácku"
 contentType: prose
 ---
 
+<section>
+
 Rád uvažuji ve volném čase o ženách.
 
 Je to téma prakticky nevyčerpatelné. Pokud nejste zrovna Jack Rozparovač, nikdy s tím nebudete hotov.
@@ -27,7 +29,15 @@ Aha, Barbie. Tu přezdívku dostala proto, že bojuje v USA proti sexualizovan�
 
 Než se vrátí, povím vám o Tuglik.
 
+</section>
+
+<section>
+
 Tuglik a její vnučka
+
+</section>
+
+<section>
 
 Přišel čas lovu. Muži opustili vesnici. Přišel čas velkého lovu velkých narvalů. V táboře zůstala jen stařena jménem Tuglik a její vnučka. Muži byli na lovu dlouho, zapomněli na Tuglik a její vnučku Sagvak, která v tom čase vyspěla.
 
@@ -49,8 +59,18 @@ Počkala na noc a pak pronesla několik magických slov. V tu chvíli z ní b
 
 Žena nebo muž, vyjde to nastejno, když je člověk sám, pomyslela si Tuglik.
 
+</section>
+
+<section>
+
 Tak končí ta eskymácká pohádka. Dávná a matriarchální jak morková kost. Díky, Barbie, klaním se eskymácké babičce a volám: Tuglik byla moudřejší a člověku prospěšnější než všechny ismy, co jich kdy lidstvo vymyslelo!
 
 Včetně feminismu, říkám si potichu. Protože: žena nebo muž, vyjde to nastejno, když je člověk sám.
 
+</section>
+
+<section>
+
 > 11. června 1992
+
+</section>

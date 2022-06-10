@@ -3,6 +3,8 @@ title: "Rychlé špunty a\_pěkná, pomalá práce podzimu"
 contentType: prose
 ---
 
+<section>
+
 Za tohle táhlé vzpomínání nemůže listopad, i když se (ve Zdicích) brodím v listí jako Seamus Heaney ve Wicklow. Ale ten se brouzdal „plevami, těmi vysátými motolicemi podzimu…“ Za tohle táhlé vzpomínání může Nobelova cena. Pro malé národy je Nobelova cena za literaturu na chvíli velkou cenou národní hrdosti. Nobelovu cenu za literaturu si někdy v ten den prožijí i ti, kterým je literatura ukradená, a co se týče Nobela, je jim bližší dynamit než poezie. U Irů je to s láskou k poezii a k dynamitu tak půl na půl.
 
 Seamus Heaney je Ir jako poleno a s irským podzimem má své zkušenosti. Ty jeho básničky jsou samá hlína a tráva a hlohy a buk­vice a žaludy. Sychravo. Aby si prodloužil léto, odjel v říjnu do jakési řecké vesnice, a tam ho ta zpráva zastihla. Představuji si, že zrovna držel v ruce stopku uzu, té řecké anýzové kořalky, která vás buď nadosmrti přivolá, nebo vás nadosmrti zažene. Představuji si, že neumí řecky, ale když v televizorku nad barem uviděl svou fotografii a uslyšel slovo Nobel, tak trochu uzu vybryndal a pochopil, že jeho dovolená končí. Musel honem domů. Irové ho ponesou z nádraží na ramenou…
@@ -30,3 +32,5 @@ To je úryvek z básně, kterou Heaney napsal ve Wicklow, ale mně připomíná
 „Tak položte tu zatracenou šampusku a já vám ukážu pěkný výhled.“
 
 Dovedl mě k oknu. Stáli jsme zády k hlaholícímu sálu. Před námi mlčely nízké lesy. Heaney sáhl do náprsní kapsy saka a v ruce se mu objevila placatá láhev v koženém pouzdru. Pěkná práce. Odšrouboval stříbrný uzávěr a vyskočil džin. Třídecový džin irské whisky. Chvíli mezi námi koloval. Chvíli jsme si o něčem povídali, nejspíš o Dylanu Thomasovi. Za zády nám třaskaly rychlé špunty a před námi krajina pokojně shazovala barevné listí. Byla to pěkná, pomalá práce.
+
+</section>

@@ -3,6 +3,8 @@ title: "Štědrý večer a\_ucho generála Čepičky"
 contentType: prose
 ---
 
+<section>
+
 Štědrý večer, to býval u nás mirákl. To byla symfonie pod taktovkou našeho otce. Vyznačoval se (otec) tím, že doma chodil pouze v županu z vylysalé velbloudí srsti, ale vypadal v něm stejně důstojně jako Rafael Kubelík ve fraku. Střídal moderato i presto a stupňoval napětí až k večerním tympánům, při nichž se otevřela křídla dveří do pokoje s rozsvíceným stromem. Okno bylo dokořán, aby andělé mohli dovnitř i ven, proto bylo v pokoji slyšet slabé šumění perutí.
 
 Až pak, až po chvíli ten nebeský zvuk přehlušilo praskání sálajících amerických kamen, živených koksem, a maminka okno zavřela. Strom se tyčil a stůl se rozprostíral…
@@ -44,3 +46,5 @@ Samozřejmě i s naším Gustíkem. Nejvýchodnější slovenský poručík se
 Studená válka zuřila dál, ale u nás bylo teploučko. Na Jožina dolehla z toho tepla, dárků, jídla a vína a pohody tak sladká únava, že mu maminka ustlala – a on usnul vzápětí napříč manželskou postelí.
 
 To bylo dobře. Naši nemohli jít spát a museli jsme si celou noc povídat. Tiše, skoro šeptem, neboť imperialista nikdy nespí. A ještě tišeji, protože náš poručík spal…
+
+</section>

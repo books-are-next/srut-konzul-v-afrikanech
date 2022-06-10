@@ -3,6 +3,8 @@ title: "Listopadky z\_druhé ruky"
 contentType: prose
 ---
 
+<section>
+
 Second-hands, lidově sekáče, rostou stále jako houby po havárii jaderné elektrárny. Například u nás ve Zdicích je jich víc než hostinců. Tam se to dá snadno spočítat. U nás na pražských Vinohradech jsem hostince ani sekáče nepočítal – a na tenhle jsem narazil čistě náhodou. Je důkazem podnikatelského ducha a zároveň božího srdce. Nabízí za studentské ceny svatební a jiné květiny, nabízí za důchodcovské ceny pohřební a jiné věnce. Vše z druhé ruky, jen zcela nepatrně obnošené.
 
 Anglický básník Robert Graves miloval růže. Ale jen ty „přírodní“ z venkovských zahrádek, které se radují z dešťů a mšic. Růžím prodávaným v květinářství spílal do voskových mumií a falešných panen.
@@ -21,4 +23,10 @@ Abych to zkrátil a raději rovnou ukončil. Je právě 14 hodin, čtvrtek, 17
 
 Pokud to v sobotu vyjde, koupím si tam plnou náruč trochu ovadlých listopadek položených pány ministry do toho podloubí na Národní třídě. Za studentskou cenu. A dám ji prvnímu policajtovi, na kterého narazím. Jako ta studentka z té slavné fotografie pořízené právě před pěti roky právě tady na Národní třídě. Stojí tam proti štítonošům, vzpomínáte? Co asi dneska dělá? Přinese aspoň občas někdo kytku jí?
 
+</section>
+
+<section>
+
 > 19. listopadu 1994
+
+</section>
