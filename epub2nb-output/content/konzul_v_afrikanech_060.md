@@ -33,7 +33,15 @@ Než se vrátí, povím vám o Tuglik.
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 Tuglik a její vnučka
+
+</div>
+
+</div>
 
 </section>
 

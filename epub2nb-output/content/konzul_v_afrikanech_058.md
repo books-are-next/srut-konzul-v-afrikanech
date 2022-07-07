@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 (Dopis do H.)
+
+</div>
+
+</div>
 
 </section>
 
