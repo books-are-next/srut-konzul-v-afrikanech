@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 (Druhý otevřený dopis Arnoštu Lustigovi)
+
+</div>
+
+</div>
 
 </section>
 

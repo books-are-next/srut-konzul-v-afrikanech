@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 (Douška k romanci pro křídlovku)
+
+</div>
+
+</div>
 
 ### I
 

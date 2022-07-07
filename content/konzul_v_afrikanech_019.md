@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 (Kurtu Vonnegutovi)
+
+</div>
+
+</div>
 
 </section>
 

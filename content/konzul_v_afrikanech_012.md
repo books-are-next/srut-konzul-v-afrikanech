@@ -5,7 +5,15 @@ contentType: prose
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 (Za hudebním skladatelem Jiřím Bulisem)
+
+</div>
+
+</div>
 
 </section>
 
