@@ -25,10 +25,10 @@ p. řed. M. Klíma
 
 <section>
 
-_Bartošek Václav  
+Bartošek Václav  
 Slavíčkova No 11/93  
 160 00 Praha 6 Bub.  
 Czech Republic  
-TPH 00422/372822_
+TPH 00422/372822
 
 </section>

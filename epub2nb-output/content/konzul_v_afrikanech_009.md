@@ -17,10 +17,10 @@ Tak jsem za ním přijíždíval vždycky párkrát do roka a vždy jen na chv�
 
 Je čas na přiznání. Napsal jsem v té době dedikaci, invektivu, stížnost. Pokud si dobře vzpomínám, měla to být stížnost na čtenáře, na ospalý národ a hlavně na Skácela, který „zarytě nemlčí“, neironizuje a píše si svou, laskavou. Začíná to citací, obrazem z jedné básničky, myslím Brouskovy, která se nám oběma kdysi líbila. Tady je, v šuplíku.
 
-_A CO ZAHRADA?  
-_(Janu Skácelovi)__
+A CO ZAHRADA?  
+_(Janu Skácelovi)_
 
-__Ano: pták sedne na větev  
+_Ano: pták sedne na větev  
 a tím rozhoupe zahrádku…_  
 Ale co ona (málem zahrada)  
 která má mořskou nemoc z úradku  
@@ -29,10 +29,10 @@ Co je jí po tom
 zpěváčku  
 že slyšíš tření světla  
 o tmu když se smráká  
-že slyšíš šepot rzi_
+že slyšíš šepot rzi
 
-_Co je jí po tom (málem zahradě)  
-která tak nerada se probouzí?_
+Co je jí po tom (málem zahradě)  
+která tak nerada se probouzí?
 
 Ukázal jsem to Skácelovi nikoli v hodině mezi psem a vlkem, nýbrž v hodině mezi posledním šachistou a prvním pivařem v Bellevue. (To je nepřeložitelná situační hříčka; štamgasti vědí.) Vzal papír do ruky, přečetl jednou, zakašlal, pak vystrčil obočí, přečetl podruhé a stránku mi podal zpátky. „Nesprávně cituješ. Ten obraz ztrácí smysl. Když pták opustí větev, ta se rozhoupe – a tím rozhoupá celou zahradu!“
 

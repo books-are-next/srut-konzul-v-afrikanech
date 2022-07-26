@@ -1,0 +1,1390 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Konzul v afrikánech",
+  "author": "Pavel Šrut",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "srut-konzul-v-afrikanech-01696eb",
+  "revision": "01696eb",
+  "readingOrder": [
+    "promo.html",
+    "konzul_v_afrikanech_005.html",
+    "konzul_v_afrikanech_006.html",
+    "konzul_v_afrikanech_007.html",
+    "konzul_v_afrikanech_008.html",
+    "konzul_v_afrikanech_009.html",
+    "konzul_v_afrikanech_010.html",
+    "konzul_v_afrikanech_011.html",
+    "konzul_v_afrikanech_012.html",
+    "konzul_v_afrikanech_013.html",
+    "konzul_v_afrikanech_014.html",
+    "konzul_v_afrikanech_015.html",
+    "konzul_v_afrikanech_016.html",
+    "konzul_v_afrikanech_017.html",
+    "konzul_v_afrikanech_018.html",
+    "konzul_v_afrikanech_019.html",
+    "konzul_v_afrikanech_020.html",
+    "konzul_v_afrikanech_021.html",
+    "konzul_v_afrikanech_022.html",
+    "konzul_v_afrikanech_023.html",
+    "konzul_v_afrikanech_024.html",
+    "konzul_v_afrikanech_025.html",
+    "konzul_v_afrikanech_026.html",
+    "konzul_v_afrikanech_027.html",
+    "konzul_v_afrikanech_028.html",
+    "konzul_v_afrikanech_029.html",
+    "konzul_v_afrikanech_030.html",
+    "konzul_v_afrikanech_031.html",
+    "konzul_v_afrikanech_032.html",
+    "konzul_v_afrikanech_033.html",
+    "konzul_v_afrikanech_034.html",
+    "konzul_v_afrikanech_035.html",
+    "konzul_v_afrikanech_036.html",
+    "konzul_v_afrikanech_037.html",
+    "konzul_v_afrikanech_038.html",
+    "konzul_v_afrikanech_039.html",
+    "konzul_v_afrikanech_040.html",
+    "konzul_v_afrikanech_041.html",
+    "konzul_v_afrikanech_042.html",
+    "konzul_v_afrikanech_043.html",
+    "konzul_v_afrikanech_044.html",
+    "konzul_v_afrikanech_045.html",
+    "konzul_v_afrikanech_046.html",
+    "konzul_v_afrikanech_047.html",
+    "konzul_v_afrikanech_048.html",
+    "konzul_v_afrikanech_049.html",
+    "konzul_v_afrikanech_050.html",
+    "konzul_v_afrikanech_051.html",
+    "konzul_v_afrikanech_052.html",
+    "konzul_v_afrikanech_053.html",
+    "konzul_v_afrikanech_054.html",
+    "konzul_v_afrikanech_055.html",
+    "konzul_v_afrikanech_056.html",
+    "konzul_v_afrikanech_057.html",
+    "konzul_v_afrikanech_058.html",
+    "konzul_v_afrikanech_059.html",
+    "konzul_v_afrikanech_060.html",
+    "konzul_v_afrikanech_061.html",
+    "konzul_v_afrikanech_062.html",
+    "konzul_v_afrikanech_063.html",
+    "konzul_v_afrikanech_064.html",
+    "konzul_v_afrikanech_065.html",
+    "konzul_v_afrikanech_066.html",
+    "konzul_v_afrikanech_067.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Jul 26 2022 17:29:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658856592300
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "konzul_v_afrikanech_005.html",
+      "toc": []
+    },
+    {
+      "title": "Čtenář na koni",
+      "file": "konzul_v_afrikanech_005.html",
+      "words": 421,
+      "chars": 2378,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "konzul_v_afrikanech_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čtenář na koni",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I Básníci, ženy, alkoholy",
+      "file": "konzul_v_afrikanech_006.html",
+      "words": 4,
+      "chars": 25,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "konzul_v_afrikanech_005.html",
+      "next": "konzul_v_afrikanech_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I Básníci, ženy, alkoholy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pohádka o tom, jak pan Kolář učil jednoho mládence kouřit",
+      "file": "konzul_v_afrikanech_007.html",
+      "words": 389,
+      "chars": 2399,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 3,
+      "prev": "konzul_v_afrikanech_006.html",
+      "next": "konzul_v_afrikanech_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pohádka o tom, jak pan Kolář učil jednoho mládence kouřit",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ó ta divoká léta šedesátá!",
+      "file": "konzul_v_afrikanech_008.html",
+      "words": 648,
+      "chars": 3861,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 4,
+      "prev": "konzul_v_afrikanech_007.html",
+      "next": "konzul_v_afrikanech_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ó ta divoká léta šedesátá!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tři červená jablíčka aneb Chvála krásné vyhlídky",
+      "file": "konzul_v_afrikanech_009.html",
+      "words": 1127,
+      "chars": 6491,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 5,
+      "prev": "konzul_v_afrikanech_008.html",
+      "next": "konzul_v_afrikanech_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tři červená jablíčka aneb Chvála krásné vyhlídky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Robinson František",
+      "file": "konzul_v_afrikanech_010.html",
+      "words": 407,
+      "chars": 2418,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 6,
+      "prev": "konzul_v_afrikanech_009.html",
+      "next": "konzul_v_afrikanech_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Robinson František",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poslední odpověď na poslední dopis Jana Skácela",
+      "file": "konzul_v_afrikanech_011.html",
+      "words": 437,
+      "chars": 2455,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 7,
+      "prev": "konzul_v_afrikanech_010.html",
+      "next": "konzul_v_afrikanech_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poslední odpověď na poslední dopis Jana Skácela",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hodinky a kámen",
+      "file": "konzul_v_afrikanech_012.html",
+      "words": 183,
+      "chars": 1054,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 8,
+      "prev": "konzul_v_afrikanech_011.html",
+      "next": "konzul_v_afrikanech_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hodinky a kámen",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Volná noha u stolu",
+      "file": "konzul_v_afrikanech_013.html",
+      "words": 663,
+      "chars": 3945,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 9,
+      "prev": "konzul_v_afrikanech_012.html",
+      "next": "konzul_v_afrikanech_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Volná noha u stolu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rychlé špunty a pěkná, pomalá práce podzimu",
+      "file": "konzul_v_afrikanech_014.html",
+      "words": 653,
+      "chars": 3936,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 10,
+      "prev": "konzul_v_afrikanech_013.html",
+      "next": "konzul_v_afrikanech_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rychlé špunty a pěkná, pomalá práce podzimu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O česneku, poezii a chytání zajíců",
+      "file": "konzul_v_afrikanech_015.html",
+      "words": 601,
+      "chars": 3717,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 11,
+      "prev": "konzul_v_afrikanech_014.html",
+      "next": "konzul_v_afrikanech_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O česneku, poezii a chytání zajíců",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "35 000 básníků a deus ex machina Allen Ginsberg",
+      "file": "konzul_v_afrikanech_016.html",
+      "words": 1118,
+      "chars": 6680,
+      "ideas": 39,
+      "role": "chapter",
+      "order": 12,
+      "prev": "konzul_v_afrikanech_015.html",
+      "next": "konzul_v_afrikanech_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "35 000 básníků a deus ex machina Allen Ginsberg",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pravý živý indián",
+      "file": "konzul_v_afrikanech_017.html",
+      "words": 414,
+      "chars": 2662,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 13,
+      "prev": "konzul_v_afrikanech_016.html",
+      "next": "konzul_v_afrikanech_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pravý živý indián",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Víno je příběh",
+      "file": "konzul_v_afrikanech_018.html",
+      "words": 652,
+      "chars": 3792,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 14,
+      "prev": "konzul_v_afrikanech_017.html",
+      "next": "konzul_v_afrikanech_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Víno je příběh",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nechci žít nonstop",
+      "file": "konzul_v_afrikanech_019.html",
+      "words": 542,
+      "chars": 3289,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 15,
+      "prev": "konzul_v_afrikanech_018.html",
+      "next": "konzul_v_afrikanech_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nechci žít nonstop",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Opařený, ale šťastný",
+      "file": "konzul_v_afrikanech_020.html",
+      "words": 615,
+      "chars": 3730,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 16,
+      "prev": "konzul_v_afrikanech_019.html",
+      "next": "konzul_v_afrikanech_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Opařený, ale šťastný",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rum do čaje – čum do ráje",
+      "file": "konzul_v_afrikanech_021.html",
+      "words": 496,
+      "chars": 2993,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 17,
+      "prev": "konzul_v_afrikanech_020.html",
+      "next": "konzul_v_afrikanech_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rum do čaje – čum do ráje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Where are you from?",
+      "file": "konzul_v_afrikanech_022.html",
+      "words": 587,
+      "chars": 3692,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 18,
+      "prev": "konzul_v_afrikanech_021.html",
+      "next": "konzul_v_afrikanech_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Where are you from?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Where is your local?",
+      "file": "konzul_v_afrikanech_023.html",
+      "words": 602,
+      "chars": 3448,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 19,
+      "prev": "konzul_v_afrikanech_022.html",
+      "next": "konzul_v_afrikanech_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Where is your local?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krásná bláhová Dajána",
+      "file": "konzul_v_afrikanech_024.html",
+      "words": 611,
+      "chars": 3696,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 20,
+      "prev": "konzul_v_afrikanech_023.html",
+      "next": "konzul_v_afrikanech_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krásná bláhová Dajána",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zazipovaná Kimberley",
+      "file": "konzul_v_afrikanech_025.html",
+      "words": 675,
+      "chars": 4031,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 21,
+      "prev": "konzul_v_afrikanech_024.html",
+      "next": "konzul_v_afrikanech_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zazipovaná Kimberley",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Óda na zahlédnutý kotník",
+      "file": "konzul_v_afrikanech_026.html",
+      "words": 594,
+      "chars": 3695,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 22,
+      "prev": "konzul_v_afrikanech_025.html",
+      "next": "konzul_v_afrikanech_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Óda na zahlédnutý kotník",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Stylové masáže",
+      "file": "konzul_v_afrikanech_027.html",
+      "words": 566,
+      "chars": 3517,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 23,
+      "prev": "konzul_v_afrikanech_026.html",
+      "next": "konzul_v_afrikanech_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Stylové masáže",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zlomený klíč pod rohožkou",
+      "file": "konzul_v_afrikanech_028.html",
+      "words": 633,
+      "chars": 3786,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 24,
+      "prev": "konzul_v_afrikanech_027.html",
+      "next": "konzul_v_afrikanech_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zlomený klíč pod rohožkou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výchova mladých Číňanek v Čechách",
+      "file": "konzul_v_afrikanech_029.html",
+      "words": 538,
+      "chars": 3249,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 25,
+      "prev": "konzul_v_afrikanech_028.html",
+      "next": "konzul_v_afrikanech_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výchova mladých Číňanek v Čechách",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sen hořký jako fernet",
+      "file": "konzul_v_afrikanech_030.html",
+      "words": 491,
+      "chars": 2866,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 26,
+      "prev": "konzul_v_afrikanech_029.html",
+      "next": "konzul_v_afrikanech_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sen hořký jako fernet",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II A jiné",
+      "file": "konzul_v_afrikanech_031.html",
+      "words": 3,
+      "chars": 9,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 27,
+      "prev": "konzul_v_afrikanech_030.html",
+      "next": "konzul_v_afrikanech_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II A jiné",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ošklivost bez závoje",
+      "file": "konzul_v_afrikanech_032.html",
+      "words": 486,
+      "chars": 2925,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 28,
+      "prev": "konzul_v_afrikanech_031.html",
+      "next": "konzul_v_afrikanech_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ošklivost bez závoje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Postavit dům, zasadit strom…",
+      "file": "konzul_v_afrikanech_033.html",
+      "words": 683,
+      "chars": 4291,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 29,
+      "prev": "konzul_v_afrikanech_032.html",
+      "next": "konzul_v_afrikanech_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Postavit dům, zasadit strom…",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hra na hraně",
+      "file": "konzul_v_afrikanech_034.html",
+      "words": 448,
+      "chars": 2831,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 30,
+      "prev": "konzul_v_afrikanech_033.html",
+      "next": "konzul_v_afrikanech_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hra na hraně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Magor vnoučatům",
+      "file": "konzul_v_afrikanech_035.html",
+      "words": 269,
+      "chars": 1562,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 31,
+      "prev": "konzul_v_afrikanech_034.html",
+      "next": "konzul_v_afrikanech_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Magor vnoučatům",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O zaručené Peťákově cestě do nebe",
+      "file": "konzul_v_afrikanech_036.html",
+      "words": 348,
+      "chars": 2162,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 32,
+      "prev": "konzul_v_afrikanech_035.html",
+      "next": "konzul_v_afrikanech_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O zaručené Peťákově cestě do nebe",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak odejít… a přitom zůstat doma",
+      "file": "konzul_v_afrikanech_037.html",
+      "words": 387,
+      "chars": 2390,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 33,
+      "prev": "konzul_v_afrikanech_036.html",
+      "next": "konzul_v_afrikanech_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak odejít… a přitom zůstat doma",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III Z rodiny",
+      "file": "konzul_v_afrikanech_038.html",
+      "words": 3,
+      "chars": 12,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 34,
+      "prev": "konzul_v_afrikanech_037.html",
+      "next": "konzul_v_afrikanech_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III Z rodiny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čekání na anděla",
+      "file": "konzul_v_afrikanech_039.html",
+      "words": 476,
+      "chars": 2777,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 35,
+      "prev": "konzul_v_afrikanech_038.html",
+      "next": "konzul_v_afrikanech_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čekání na anděla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Štědrý večer a ucho generála Čepičky",
+      "file": "konzul_v_afrikanech_040.html",
+      "words": 661,
+      "chars": 4013,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 36,
+      "prev": "konzul_v_afrikanech_039.html",
+      "next": "konzul_v_afrikanech_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Štědrý večer a ucho generála Čepičky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Můj otec byl agent",
+      "file": "konzul_v_afrikanech_041.html",
+      "words": 503,
+      "chars": 3154,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 37,
+      "prev": "konzul_v_afrikanech_040.html",
+      "next": "konzul_v_afrikanech_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Můj otec byl agent",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak zrušit únor",
+      "file": "konzul_v_afrikanech_042.html",
+      "words": 422,
+      "chars": 2486,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 38,
+      "prev": "konzul_v_afrikanech_041.html",
+      "next": "konzul_v_afrikanech_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak zrušit únor",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Fandové",
+      "file": "konzul_v_afrikanech_043.html",
+      "words": 379,
+      "chars": 2312,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 39,
+      "prev": "konzul_v_afrikanech_042.html",
+      "next": "konzul_v_afrikanech_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Fandové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maďary",
+      "file": "konzul_v_afrikanech_044.html",
+      "words": 352,
+      "chars": 2275,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 40,
+      "prev": "konzul_v_afrikanech_043.html",
+      "next": "konzul_v_afrikanech_045.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maďary",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Orkneje",
+      "file": "konzul_v_afrikanech_045.html",
+      "words": 510,
+      "chars": 3018,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 41,
+      "prev": "konzul_v_afrikanech_044.html",
+      "next": "konzul_v_afrikanech_046.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Orkneje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milý lidový deníčku,",
+      "file": "konzul_v_afrikanech_046.html",
+      "words": 588,
+      "chars": 3454,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 42,
+      "prev": "konzul_v_afrikanech_045.html",
+      "next": "konzul_v_afrikanech_047.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Milý lidový deníčku,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV Lidové neviny",
+      "file": "konzul_v_afrikanech_047.html",
+      "words": 3,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 43,
+      "prev": "konzul_v_afrikanech_046.html",
+      "next": "konzul_v_afrikanech_048.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV Lidové neviny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Malá recenze na čisté víno",
+      "file": "konzul_v_afrikanech_048.html",
+      "words": 302,
+      "chars": 1744,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 44,
+      "prev": "konzul_v_afrikanech_047.html",
+      "next": "konzul_v_afrikanech_049.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Malá recenze na čisté víno",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Člověče, nezlob se",
+      "file": "konzul_v_afrikanech_049.html",
+      "words": 206,
+      "chars": 1297,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 45,
+      "prev": "konzul_v_afrikanech_048.html",
+      "next": "konzul_v_afrikanech_050.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Člověče, nezlob se",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Člověče, nezlob mě",
+      "file": "konzul_v_afrikanech_050.html",
+      "words": 335,
+      "chars": 1993,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 46,
+      "prev": "konzul_v_afrikanech_049.html",
+      "next": "konzul_v_afrikanech_051.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Člověče, nezlob mě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čaj s náprstkem slivovice",
+      "file": "konzul_v_afrikanech_051.html",
+      "words": 293,
+      "chars": 1772,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 47,
+      "prev": "konzul_v_afrikanech_050.html",
+      "next": "konzul_v_afrikanech_052.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čaj s náprstkem slivovice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ó ty vire virility!",
+      "file": "konzul_v_afrikanech_052.html",
+      "words": 516,
+      "chars": 3318,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 48,
+      "prev": "konzul_v_afrikanech_051.html",
+      "next": "konzul_v_afrikanech_053.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ó ty vire virility!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vůně mandlu a vůně mandlí",
+      "file": "konzul_v_afrikanech_053.html",
+      "words": 447,
+      "chars": 2513,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 49,
+      "prev": "konzul_v_afrikanech_052.html",
+      "next": "konzul_v_afrikanech_054.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vůně mandlu a vůně mandlí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dějiny ve vosku",
+      "file": "konzul_v_afrikanech_054.html",
+      "words": 531,
+      "chars": 3275,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 50,
+      "prev": "konzul_v_afrikanech_053.html",
+      "next": "konzul_v_afrikanech_055.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dějiny ve vosku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O příslovích",
+      "file": "konzul_v_afrikanech_055.html",
+      "words": 330,
+      "chars": 2017,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 51,
+      "prev": "konzul_v_afrikanech_054.html",
+      "next": "konzul_v_afrikanech_056.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O příslovích",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Píšete bratrovi?",
+      "file": "konzul_v_afrikanech_056.html",
+      "words": 363,
+      "chars": 2193,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 52,
+      "prev": "konzul_v_afrikanech_055.html",
+      "next": "konzul_v_afrikanech_057.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Píšete bratrovi?",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Čeština",
+      "file": "konzul_v_afrikanech_057.html",
+      "words": 416,
+      "chars": 2586,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 53,
+      "prev": "konzul_v_afrikanech_056.html",
+      "next": "konzul_v_afrikanech_058.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Čeština",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Duše",
+      "file": "konzul_v_afrikanech_058.html",
+      "words": 494,
+      "chars": 2771,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 54,
+      "prev": "konzul_v_afrikanech_057.html",
+      "next": "konzul_v_afrikanech_059.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Duše",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Feminismus po eskymácku",
+      "file": "konzul_v_afrikanech_059.html",
+      "words": 358,
+      "chars": 2235,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 55,
+      "prev": "konzul_v_afrikanech_058.html",
+      "next": "konzul_v_afrikanech_060.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Feminismus po eskymácku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tuglik aneb Znovu o feminismu po eskymácku",
+      "file": "konzul_v_afrikanech_060.html",
+      "words": 552,
+      "chars": 3346,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 56,
+      "prev": "konzul_v_afrikanech_059.html",
+      "next": "konzul_v_afrikanech_061.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tuglik aneb Znovu o feminismu po eskymácku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Listopadky z druhé ruky",
+      "file": "konzul_v_afrikanech_061.html",
+      "words": 381,
+      "chars": 2332,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 57,
+      "prev": "konzul_v_afrikanech_060.html",
+      "next": "konzul_v_afrikanech_062.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Listopadky z druhé ruky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zkuste políbit mouchu, pánové",
+      "file": "konzul_v_afrikanech_062.html",
+      "words": 459,
+      "chars": 2600,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 58,
+      "prev": "konzul_v_afrikanech_061.html",
+      "next": "konzul_v_afrikanech_063.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zkuste políbit mouchu, pánové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Našim Sabinkám",
+      "file": "konzul_v_afrikanech_063.html",
+      "words": 532,
+      "chars": 3108,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 59,
+      "prev": "konzul_v_afrikanech_062.html",
+      "next": "konzul_v_afrikanech_064.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Našim Sabinkám",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zdický fejeton o myších a lidech",
+      "file": "konzul_v_afrikanech_064.html",
+      "words": 435,
+      "chars": 2445,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 60,
+      "prev": "konzul_v_afrikanech_063.html",
+      "next": "konzul_v_afrikanech_065.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zdický fejeton o myších a lidech",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sluníčko, petry, stroj, jaro, telefon – a tak vůbec: Nic",
+      "file": "konzul_v_afrikanech_065.html",
+      "words": 271,
+      "chars": 1607,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 61,
+      "prev": "konzul_v_afrikanech_064.html",
+      "next": "konzul_v_afrikanech_066.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sluníčko, petry, stroj, jaro, telefon – a tak vůbec: Nic",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vážená redakce NLN – Nár. 9!",
+      "file": "konzul_v_afrikanech_066.html",
+      "words": 100,
+      "chars": 559,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 62,
+      "prev": "konzul_v_afrikanech_065.html",
+      "next": "konzul_v_afrikanech_067.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vážená redakce NLN – Nár. 9!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "P. S.",
+      "file": "konzul_v_afrikanech_067.html",
+      "words": 36,
+      "chars": 222,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 63,
+      "prev": "konzul_v_afrikanech_066.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "P. S.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 133,
+      "chars": 856,
+      "ideas": 15,
+      "role": "about",
+      "order": null,
+      "prev": "konzul_v_afrikanech_067.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 28685,
+      "chars": 172321,
+      "ideas": 984
+    },
+    "chapters": {
+      "words": 28545,
+      "chars": 171425,
+      "ideas": 965
+    }
+  }
+}
