@@ -9,7 +9,8 @@
       "modified": "2021-05-13T00:00:00.000Z",
       "edition": "beletrie",
       "publisherShort": "mkp",
-      "contentType": "prose"
+      "contentType": "prose",
+      "isbn": "978-80-274-2692-8"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -96,8 +97,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Čtenář na koni"
+            "title": "Čtenář na koni",
+            "children": []
           },
           {
             "filename": "konzul_v_afrikanech_006.md",
@@ -109,6 +110,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "I Básníci, ženy, alkoholy",
             "children": [
               {
                 "filename": "konzul_v_afrikanech_007.md",
@@ -120,8 +122,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pohádka o tom, jak pan Kolář učil jednoho mládence kouřit"
+                "title": "Pohádka o tom, jak pan Kolář učil jednoho mládence kouřit",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_008.md",
@@ -133,8 +135,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ó ta divoká léta šedesátá!"
+                "title": "Ó ta divoká léta šedesátá!",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_009.md",
@@ -146,8 +148,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Tři červená jablíčka aneb Chvála krásné vyhlídky"
+                "title": "Tři červená jablíčka aneb Chvála krásné vyhlídky",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_010.md",
@@ -159,8 +161,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Robinson František"
+                "title": "Robinson František",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_011.md",
@@ -172,8 +174,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Poslední odpověď na poslední dopis Jana Skácela"
+                "title": "Poslední odpověď na poslední dopis Jana Skácela",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_012.md",
@@ -185,8 +187,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Hodinky a kámen"
+                "title": "Hodinky a kámen",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_013.md",
@@ -198,8 +200,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Volná noha u stolu"
+                "title": "Volná noha u stolu",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_014.md",
@@ -211,8 +213,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Rychlé špunty a pěkná, pomalá práce podzimu"
+                "title": "Rychlé špunty a pěkná, pomalá práce podzimu",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_015.md",
@@ -224,8 +226,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "O česneku, poezii a chytání zajíců"
+                "title": "O česneku, poezii a chytání zajíců",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_016.md",
@@ -237,8 +239,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "35 000 básníků a deus ex machina Allen Ginsberg"
+                "title": "35 000 básníků a deus ex machina Allen Ginsberg",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_017.md",
@@ -250,8 +252,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Pravý živý indián"
+                "title": "Pravý živý indián",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_018.md",
@@ -263,8 +265,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Víno je příběh"
+                "title": "Víno je příběh",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_019.md",
@@ -276,8 +278,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Nechci žít nonstop"
+                "title": "Nechci žít nonstop",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_020.md",
@@ -289,8 +291,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Opařený, ale šťastný"
+                "title": "Opařený, ale šťastný",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_021.md",
@@ -302,8 +304,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Rum do čaje – čum do ráje"
+                "title": "Rum do čaje – čum do ráje",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_022.md",
@@ -315,8 +317,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Where are you from?"
+                "title": "Where are you from?",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_023.md",
@@ -328,8 +330,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Where is your local?"
+                "title": "Where is your local?",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_024.md",
@@ -341,8 +343,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Krásná bláhová Dajána"
+                "title": "Krásná bláhová Dajána",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_025.md",
@@ -354,8 +356,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zazipovaná Kimberley"
+                "title": "Zazipovaná Kimberley",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_026.md",
@@ -367,8 +369,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Óda na zahlédnutý kotník"
+                "title": "Óda na zahlédnutý kotník",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_027.md",
@@ -380,8 +382,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Stylové masáže"
+                "title": "Stylové masáže",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_028.md",
@@ -393,8 +395,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zlomený klíč pod rohožkou"
+                "title": "Zlomený klíč pod rohožkou",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_029.md",
@@ -406,8 +408,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Výchova mladých Číňanek v Čechách"
+                "title": "Výchova mladých Číňanek v Čechách",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_030.md",
@@ -419,11 +421,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Sen hořký jako fernet"
+                "title": "Sen hořký jako fernet",
+                "children": []
               }
-            ],
-            "title": "I Básníci, ženy, alkoholy"
+            ]
           },
           {
             "filename": "konzul_v_afrikanech_031.md",
@@ -435,6 +436,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "II A jiné",
             "children": [
               {
                 "filename": "konzul_v_afrikanech_032.md",
@@ -446,8 +448,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ošklivost bez závoje"
+                "title": "Ošklivost bez závoje",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_033.md",
@@ -459,8 +461,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Postavit dům, zasadit strom…"
+                "title": "Postavit dům, zasadit strom…",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_034.md",
@@ -472,8 +474,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Hra na hraně"
+                "title": "Hra na hraně",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_035.md",
@@ -485,8 +487,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Magor vnoučatům"
+                "title": "Magor vnoučatům",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_036.md",
@@ -498,8 +500,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "O zaručené Peťákově cestě do nebe"
+                "title": "O zaručené Peťákově cestě do nebe",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_037.md",
@@ -511,11 +513,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jak odejít… a přitom zůstat doma"
+                "title": "Jak odejít… a přitom zůstat doma",
+                "children": []
               }
-            ],
-            "title": "II A jiné"
+            ]
           },
           {
             "filename": "konzul_v_afrikanech_038.md",
@@ -527,6 +528,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "III Z rodiny",
             "children": [
               {
                 "filename": "konzul_v_afrikanech_039.md",
@@ -538,8 +540,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Čekání na anděla"
+                "title": "Čekání na anděla",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_040.md",
@@ -551,8 +553,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Štědrý večer a ucho generála Čepičky"
+                "title": "Štědrý večer a ucho generála Čepičky",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_041.md",
@@ -564,8 +566,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Můj otec byl agent"
+                "title": "Můj otec byl agent",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_042.md",
@@ -577,8 +579,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Jak zrušit únor"
+                "title": "Jak zrušit únor",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_043.md",
@@ -590,8 +592,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Fandové"
+                "title": "Fandové",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_044.md",
@@ -603,8 +605,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Maďary"
+                "title": "Maďary",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_045.md",
@@ -616,8 +618,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Orkneje"
+                "title": "Orkneje",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_046.md",
@@ -629,11 +631,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Milý lidový deníčku,"
+                "title": "Milý lidový deníčku,",
+                "children": []
               }
-            ],
-            "title": "III Z rodiny"
+            ]
           },
           {
             "filename": "konzul_v_afrikanech_047.md",
@@ -645,6 +646,7 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
+            "title": "IV Lidové neviny",
             "children": [
               {
                 "filename": "konzul_v_afrikanech_048.md",
@@ -656,8 +658,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Malá recenze na čisté víno"
+                "title": "Malá recenze na čisté víno",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_049.md",
@@ -669,8 +671,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Člověče, nezlob se"
+                "title": "Člověče, nezlob se",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_050.md",
@@ -682,8 +684,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Člověče, nezlob mě"
+                "title": "Člověče, nezlob mě",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_051.md",
@@ -695,8 +697,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Čaj s náprstkem slivovice"
+                "title": "Čaj s náprstkem slivovice",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_052.md",
@@ -708,8 +710,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Ó ty vire virility!"
+                "title": "Ó ty vire virility!",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_053.md",
@@ -721,8 +723,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Vůně mandlu a vůně mandlí"
+                "title": "Vůně mandlu a vůně mandlí",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_054.md",
@@ -734,8 +736,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Dějiny ve vosku"
+                "title": "Dějiny ve vosku",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_055.md",
@@ -747,8 +749,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "O příslovích"
+                "title": "O příslovích",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_056.md",
@@ -760,8 +762,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Píšete bratrovi?"
+                "title": "Píšete bratrovi?",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_057.md",
@@ -773,8 +775,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Čeština"
+                "title": "Čeština",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_058.md",
@@ -786,8 +788,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Duše"
+                "title": "Duše",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_059.md",
@@ -799,8 +801,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Feminismus po eskymácku"
+                "title": "Feminismus po eskymácku",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_060.md",
@@ -812,8 +814,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Tuglik aneb Znovu o feminismu po eskymácku"
+                "title": "Tuglik aneb Znovu o feminismu po eskymácku",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_061.md",
@@ -825,8 +827,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Listopadky z druhé ruky"
+                "title": "Listopadky z druhé ruky",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_062.md",
@@ -838,8 +840,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zkuste políbit mouchu, pánové"
+                "title": "Zkuste políbit mouchu, pánové",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_063.md",
@@ -851,8 +853,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Našim Sabinkám"
+                "title": "Našim Sabinkám",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_064.md",
@@ -864,8 +866,8 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Zdický fejeton o myších a lidech"
+                "title": "Zdický fejeton o myších a lidech",
+                "children": []
               },
               {
                 "filename": "konzul_v_afrikanech_065.md",
@@ -877,11 +879,10 @@
                 "hungry": false,
                 "devoured": false,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "Sluníčko, petry, stroj, jaro, telefon – a tak vůbec: Nic"
+                "title": "Sluníčko, petry, stroj, jaro, telefon – a tak vůbec: Nic",
+                "children": []
               }
-            ],
-            "title": "IV Lidové neviny"
+            ]
           },
           {
             "filename": "konzul_v_afrikanech_066.md",
@@ -893,8 +894,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Vážená redakce NLN – Nár. 9!"
+            "title": "Vážená redakce NLN – Nár. 9!",
+            "children": []
           },
           {
             "filename": "konzul_v_afrikanech_067.md",
@@ -906,8 +907,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "P. S."
+            "title": "P. S.",
+            "children": []
           },
           {
             "filename": "konzul_v_afrikanech_068.md",
@@ -1433,6 +1434,6 @@
       "user": "books-are-next",
       "repo": "srut-konzul-v-afrikanech"
     },
-    "generatedAt": 1658413473062
+    "generatedAt": 1658856479885
   }
 }
