@@ -13,6 +13,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   contentType: prose
+  isbn: 978-80-274-2692-8
 readingOrder:
   - promo.html
   - konzul_v_afrikanech_005.html
