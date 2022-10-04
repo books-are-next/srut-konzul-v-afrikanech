@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "srut-konzul-v-afrikanech-12eca6a",
-  "revision": "12eca6a",
+  "identifier": "srut-konzul-v-afrikanech-f0fad23",
+  "revision": "f0fad23",
   "readingOrder": [
     "promo.html",
     "konzul_v_afrikanech_005.html",
@@ -78,8 +78,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:05:00 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640300295
+    "date": "Tue Oct 04 2022 16:52:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902355749
   },
   "documents": [
     {
@@ -1357,9 +1357,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 137,
+      "words": 135,
       "chars": 893,
-      "ideas": 16,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "konzul_v_afrikanech_067.html",
@@ -1377,9 +1377,9 @@
   ],
   "totals": {
     "all": {
-      "words": 28689,
+      "words": 28687,
       "chars": 172358,
-      "ideas": 985
+      "ideas": 983
     },
     "chapters": {
       "words": 28545,
